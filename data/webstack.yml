@@ -12,7 +12,7 @@
       logo: 语雀.jpg
       url: https://www.yuque.com/
       description: 专业的云端知识库。
-    - title: QQ 邮箱
+    - title: 郑兰的网站2
       logo: qq邮箱.png
       url: http://mail.qq.com/
       description: 腾讯 QQ 邮箱。
@@ -54,7 +54,7 @@
       description: 好看的皮囊千篇一律，有趣的灵魂万里挑一！
 
 
-- taxonomy: 科研办公
+- taxonomy: 郑兰的网站3
   icon: fas fa-flask fa-lg
   list:
     - term: 生物信息
