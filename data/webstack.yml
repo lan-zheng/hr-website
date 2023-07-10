@@ -3,9 +3,9 @@
 - taxonomy: 常用推荐
   icon: far fa-star
   links: 
-    - title: 关注我们
-      logo: ""
-      url: https://bioitee.com
+    - title: 微派官网
+      logo: 微派.png
+      url: https://wepie.com
       qrcode: assets/images/logos/qrcode.jpg
       description: BioIT 爱好者！
     - title: 语雀
