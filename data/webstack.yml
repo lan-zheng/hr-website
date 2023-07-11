@@ -54,7 +54,7 @@
       description: 好看的皮囊千篇一律，有趣的灵魂万里挑一！
 
 
-- taxonomy: 郑兰的网站3
+- taxonomy: HRCOE
   icon: fas fa-flask fa-lg
   list:
     - term: 生物信息
@@ -129,7 +129,7 @@
           description: 免费在线作图、实时协作。
         
 
-- taxonomy: 悠闲娱乐
+- taxonomy: HRBP
   icon: fas fa-film fa-lg
   list:
     - term: 影音视频
@@ -178,7 +178,7 @@
           description: 台服 AVA 战地之王。
    
       
-- taxonomy: 素材资源
+- taxonomy: HRSSC
   icon: far fa-folder-open fa-lg
   list:
     - term: 网盘资源
@@ -415,7 +415,7 @@
           description: 中国领先的PPT模板共享平台。
       
 
-- taxonomy: 开发设计
+- taxonomy: 招聘选才
   icon: fas fa-tools fa-lg
   list: 
     - term: 图形创意
@@ -595,7 +595,7 @@
           description: Discover the world's most beautiful places at every opened tab.
 
 
-- taxonomy: 资讯学习
+- taxonomy: 海外资源
   icon: fas fa-pencil-alt fa-lg
   list: 
     - term: 资讯书籍
