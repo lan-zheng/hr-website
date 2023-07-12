@@ -303,7 +303,7 @@
         - title: 开源中国
           logo: 开源中国.jpg
           url: https://www.oschina.net/
-         description: 中文开源技术交流社区。
+          description: 中文开源技术交流社区。
         - title: 书栈网
           url: https://www.bookstack.cn/
           logo: 书栈网.jpg
