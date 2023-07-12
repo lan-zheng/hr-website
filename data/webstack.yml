@@ -181,14 +181,6 @@
           logo: 网易云音乐.jpg
           url: https://music.163.com/
           description: 163 网易云音乐。
-        - title: 电影天堂（DYTT8）
-          logo: 电影天堂.png
-          url: https://www.dytt8.net/index.htm
-          description: 电影天堂（DYTT8），高清电影下载。
-        - title: 电影天堂（DYGOD）
-          logo: 电影天堂.png
-          url: https://www.dygod.net/
-          description: 电影天堂（DYGOD），高清电影下载。
 
 - taxonomy: HRSSC
   icon: far fa-folder-open fa-lg
@@ -252,7 +244,7 @@
           description: 全球海外知名的人脉网站
         - title: facebook
           url: https://www.facebook.com
-          logo: 书栈网.jpg
+          logo: 
           description: 全球海外知名的人脉网站
     - term: 东南亚专属
       links:
