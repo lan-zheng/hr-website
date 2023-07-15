@@ -68,11 +68,11 @@
           logo: ncbi.jpg
           url: https://www.hrloo.com/
           description: OKR和持续绩效管理工具.                            
-     - term: 资讯类
+    - term: 资讯类
       links:
         - title: HRROOT
+          url: https://www.hroot.com
           logo: ncbi.jpg
-          url:https://www.hroot.com
           description: OKR和持续绩效管理工具.         
 
 - taxonomy: 招聘选才
