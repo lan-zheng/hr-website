@@ -1,7 +1,5 @@
 ---
 
-
-
 - taxonomy: 效率工具
   icon: far fa-star
   links: 
@@ -31,10 +29,6 @@
       logo: 知乎.png
       url: https://www.zhihu.com/
       description: 知乎社区。
-    - title: V2EX
-      logo: v2ex.jpg
-      url: https://www.v2ex.com/
-      description: V2EX 创意工作者的社区。
     - title: ProcessOn
       logo: ProcessOn.png
       url: https://www.processon.com/
@@ -43,11 +37,43 @@
       url: https://weread.qq.com/
       logo: 微信读书.jpg
       description: 微信读书电脑版。
-    - title: 书栈网
-      url: https://www.bookstack.cn/
-      logo: 书栈网.jpg
-      description: IT 互联网开源编程书籍免费阅读与下载。
 
+
+- taxonomy: 综合型HR网站
+  icon: fas fa-flask fa-lg
+  list:
+    - term: 学习类
+      links:
+        - title: 三茅网
+          logo: ncbi.jpg
+          url: https://www.hrloo.com/
+          description: OKR和持续绩效管理工具.
+        - title: MeetHR
+          logo: ncbi.jpg
+          url: https://www.hrloo.com/
+          description: OKR和持续绩效管理工具.
+         - title: HRGO
+          logo: ncbi.jpg
+          url: https://www.hrloo.com/
+          description: OKR和持续绩效管理工具.       
+        - title: 高绩效HR
+          logo: ncbi.jpg
+          url: https://www.hrloo.com/
+          description: OKR和持续绩效管理工具.
+         - title: 首席组织官
+          logo: ncbi.jpg
+          url: https://www.hrloo.com/
+          description: OKR和持续绩效管理工具.  
+         - title: 环球人力资源智库
+          logo: ncbi.jpg
+          url: https://www.hrloo.com/
+          description: OKR和持续绩效管理工具.                            
+     - term: 资讯类
+      links:
+        - title: HRROOT
+          logo: ncbi.jpg
+          url:https://www.hroot.com
+          description: OKR和持续绩效管理工具.         
 
 - taxonomy: 招聘选才
   icon: fas fa-tools fa-lg
@@ -82,162 +108,155 @@
           url: https://www.blender.org/
           logo: blender.png
           description: Blender is the free and open source 3D creation suite.
+        - title: HR圈内招聘网
+          url: http://www.hrjob360.com/
+          logo: blender.png
+          description: 招聘HR.
+        - title: 海投网
+          url: http://www.hrjob360.com/
+          logo: blender.png
+          description: 招实习生和应届生
+        - title: 实习僧
+          url: https://tuiguang.shixiseng.com/
+          logo: blender.png
+          description: 招实习生
+
     - term: 人才测评
       links:
-        - title: BOSS直聘
-          url: https://www.adobe.com/cn/products/photoshop.html
+        - title: MBTI性格测试
+          url: https://www.mbti.com
           logo: photoshop.png
-          description: Photoshop不需要解释
+          description: 职业性格测试题、性格测试介绍和职业性格分析
 
 - taxonomy: HRCOE
   icon: fas fa-flask fa-lg
   list:
-    - term: TD&OD
+    - term: OKR&TOD&职级&文化
       links:
-        - title: NCBI
+        - title: OKR社区
           logo: ncbi.jpg
-          url: https://www.ncbi.nlm.nih.gov/
-          description: National Center for Biotechnology Information.
-        - title: Bioconda
+          url: https://club.tita.com
+          description: OKR和持续绩效管理工具.
+        - title: CSTD 中国人才发展平台
           logo: bioconda.jpg
-          url: https://anaconda.org/bioconda/
-          description: "Bioconda :: Anaconda.org."
-        - title: CPAN
-          logo: cpan.jpg
-          url: https://metacpan.org/
-          description: Search the CPAN.
-        - title: Gitter Galaxy
-          logo: gitter.jpg
-          url: https://gitter.im/galaxyproject
-          description: Galaxy Gitter Community.
-        - title: R Project
-          logo: r-project.jpg
-          url: https://www.r-project.org/
-          description: https://www.r-project.org
-        - title: Bioconductor
-          logo: bioconductor.jpg
-          url: http://www.bioconductor.org/
-          description: http://www.bioconductor.org
-    - term: 绩效
-      links:
-        - title: 阿里云
-          logo: 阿里云.jpg
-          url: https://www.aliyun.com/
-          description: 上云就上阿里云。
-        - title: 腾讯云
-          logo: 腾讯云.jpg
-          url: https://cloud.tencent.com/
-          description: 产业智变，云启未来。
-        - title: 华为云
-          logo: 华为云.png
-          url: https://www.huaweicloud.com/
-          description: 提供云计算服务+智能，见未来-华为云。
-        - title: 云筏科技
-          logo: ''
-          url: https://my.cloudraft.cn/
-          description: 云筏 - 科研云。
-    - term: 文化
-      links:
-        - title: 有道词典
-          logo: 有道词典.png
-          url: https://www.youdao.com/
-          description: 免费，即时的多语种在线翻译。
-        - title: 有道翻译
-          logo: 有道词典.png
-          url: http://fanyi.youdao.com/
-          description: 有道翻译。
-        - title: 谷歌翻译
-          logo: 谷歌翻译.jpg
-          url: https://translate.google.cn/
-          description: 谷歌翻译。
+          url: http://www.cstd.cn/
+          description: 培训网站
+        - title: 职级对标
+          logo: bioconda.jpg
+          url: https://duibiao.info/addLadder
+          description: 查看职级的网站 
+        - title: 企趣
+          logo: bioconda.jpg
+          url:  https://www.qiqucn.com/
+          description: 文化，游戏化员工激励平台
 
-        
-
+       
 - taxonomy: HRBP
   icon: fas fa-film fa-lg
   list:
     - term: HRBP
       links:
-        - title: 腾讯视频
+        - title: HR实名俱乐部
           logo: 腾讯视频.png
           url: http://v.qq.com/
-          description: 腾讯视频，海量视频在线观看。
-        - title: 优酷
-          logo: 优酷.png
-          url: http://www.youku.com/
-          description: 优酷 - 这个世界很酷。
-        - title: 爱奇艺
-          logo: 爱奇艺.png
-          url: https://www.iqiyi.com/
-          description: 爱奇艺在线视频。
-        - title: 哔哩哔哩
-          logo: 哔哩哔哩.png
-          url: https://www.bilibili.com/
-          description: Bilibili 视频弹幕网站。
-        - title: QQ 音乐
-          logo: QQ音乐.jpg
-          url: https://y.qq.com/
-          description: QQ 音乐，在线听歌。
-        - title: 网易云音乐
-          logo: 网易云音乐.jpg
-          url: https://music.163.com/
-          description: 163 网易云音乐。
+          description: 国内最早的HRBP布道公众号之一。
+
 
 - taxonomy: HRSSC
   icon: far fa-folder-open fa-lg
   list:
     - term: 劳动关系
       links:
-        - title: 百度网盘
+        - title: 元典智库
           logo: 百度网盘.jpg
-          url: http://pan.baidu.com/
-          description: https://pan.baidu.com/.
-        - title: 阿里云盘
-          logo: 阿里云盘.png
-          url: https://www.aliyundrive.com/
-          description: 阿里云盘，你的数字世界。
-        - title: 天翼云盘
+          url: https://www.chineselaw.com/
+          description: 收录了许多有关劳动法的诉讼案例及法律解读
+        - title: 中国法律资源库
+          logo: 阿里云盘
+          url: http://www.lawyee.org/
+          description: 数据量庞大、内容丰富的中国法律资源检索系统
+        - title: 中国裁判文书网
           logo: 天翼云盘.jpg
-          url: https://cloud.189.cn/
-          description: 家庭云|网盘|文件备份|资源分享。
-        - title: 坚果云
+          url: https://wenshu.court.gov.cn
+          description: 全国案件线上可查，可以供HR查看已经结案的劳动法案例。
+        - title: 科威先行
           logo: 坚果云.png
-          usrl: https://www.jianguoyun.com/
-          description: 坚果云官网。
+          usrl: https://hr.wkinfo.com.cn/focus/list
+          description: 劳动法网站 
+        - title: 学信网
+          logo: 坚果云.png
+          usrl: https://www.chsi.com.cn/，
+          description: 查询学历是否真实
     - term: 薪酬个税&员工福利
       links:
-        - title: Iconfinder
+        - title: salaryfly
           logo: Iconfinder.png
-          url: https://www.iconfinder.com
-          description: 2,100,000+ free and premium vector icons.
-        - title: iconfont
+          url:  https://salaryfly.com/
+          description: 大厂薪资查询
+        - title: 薪情51salary
+          logo: Iconfinder.png
+          url: https://www.51salary.com
+          description: 一个专业的行业薪酬查询平台.
+        - title: 薪人薪事
           logo: iconfont.png
-          url: http://www.iconfont.cn/
-          description: 阿里巴巴矢量图标库。
-        - title: iconmonstr
+          url: https://www.xinrenxinshi.com/calculator
+          description: 税前税后薪资计算器。
+        - title: 众乐邦
           logo: iconmonstr.png
-          url: https://iconmonstr.com/
-          description: Free simple icons for your next project.
-        - title: Icon Archive
+          url: https://www.zlbzb.cn/#/login
+          description: 合规灵活用工平台.
+        - title: 个税计算器
           logo: iconarchive.png
-          url: http://www.iconarchive.com/
-          description: Search 590,912 free icons.
-        - title: FindIcons
+          url: https://gerensuodeshui.cn/
+          description: 在线计算个税
+        - title: Worldatwork
           logo: FindIcons.png
-          url: https://findicons.com/
-          description: Search through 300,000 free icons.
+          url: https://worldatwork.org/
+          description: 世界薪酬协会
+        - title: 香港交易所
+          logo: iconarchive.png
+          url: https://www.hkex.com.hk/
+          description: 香港上市公司的年报，可以获取薪酬、员工发展的一些数据
+        - title: 国家税务总局
+          logo: FindIcons.png
+          url: http://www.chinatax.gov.cn/
+          description: 个税相关政策
+
+
     - term: 六险一金
       links:
-        - title: Iconfinder
+        - title: 武汉人力资源和社会保障局
           logo: Iconfinder.png
-          url: https://www.iconfinder.com
-          description: 2,100,000+ free and premium vector icons.
-
+          url: https://rsj.wuhan.gov.cn/cslm/
+          description: 社保政策   
+      links:
+        - title: 社保查询网
+          logo: Iconfinder.png
+          url: https://www.chashebao.com
+          description: 一站式社保服务网站
+        - title: 武汉医保综合咨询平台
+          logo: Iconfinder.png
+          url: https://zx.whsybj.cn/
+          description: 医保系统上的问题可以发帖提问，医保局员工会在底下回复解决         
+        - title: 武汉公积金
+          logo: Iconfinder.png
+          url: https://gjj.wuhan.gov.cn/
+          description: 武汉公积金政策
+    - term: 外籍员工
+      links:
+        - title: 外国人来华工作管理服务平台
+          logo: Iconfinder.png
+          url: https://fuwu.most.gov.cn/html/fwsx/wgrlhzq/
+          description: 办理签证业务
+        - title: 中国领事服务网
+          logo: Iconfinder.png
+          url: http://cs.mfa.gov.cn/
+          description: 签证的相关政策
 
 - taxonomy: 海外资源
   icon: fas fa-pencil-alt fa-lg
   list: 
-    - term: 综合网站
+    - term: 海外综合网站
       links:
         - title: linkedin
           url: https://linkedin.com/
@@ -247,54 +266,84 @@
           url: https://www.facebook.com
           logo: 
           description: 全球海外知名的人脉网站
-    - term: 东南亚专属
-      links:
-        - title: Inoreader
-          url: https://www.inoreader.com/
-          logo: inoreader.jpg
-          description: 重新掌控你的新闻订阅源。
-        - title: 经管之家
-          url: https://bbs.pinggu.org/
-          logo: 经管之家.jpg
-          description: 国内活跃的经济、管理、金融、统计在线教育和咨询网站。
-        - title: 阮一峰的网络日志
-          url: http://www.ruanyifeng.com/blog/
-          logo: 阮一峰.png
-          description: 阮一峰，科技爱好者周刊。
-    - term: 中东专属
-      links:
-        - title: Design Guidelines
-          url: http://designguidelines.co/
-          logo: designguidelines.png
-          description: Design Guidelines &mdash; The way products are built.
-        - title: Awesome design systems
-          url: https://github.com/alexpate/awesome-design-systems
-          logo: awesome_design_systems.png
-          description:  A collection of awesome design systems.
-        - title: Material Design
-          url: https://material.io/guidelines/
-          logo: Material_Design.png
-          description: Introduction - Material Design.
-    - term: 其它国家专属
+        - title: HRTechChina
+          url: https://www.facebook.com
+          logo: 
+          description: 全球海外知名的人脉网站
+        - title: indeed
+          url: https://cn.indeed.com/
+          logo: 微信读书.jpg
+          description: 北美的用户比较多
+        - title: job street
+          url: https://siva.jobstreet.com.
+          logo: 微信读书.jpg         
+          description: 北美的用户比较多                  
+        - title: up work
+          url: https://www.upwork.com/
+          logo: 微信读书.jpg    
+          description: 全球线上工作招聘平台
+        - title: HRTechChina
+          url: https://www.facebook.com
+          logo: 
+          description: 全球海外知名的人脉网站
+        - title: indeed
+          url: https://cn.indeed.com/
+          logo: 微信读书.jpg
+          description: 北美的用户比较多
+        - title: job street
+          url: https://siva.jobstreet.com.
+          logo: 微信读书.jpg         
+          description: 北美的用户比较多           
+        - title: up work
+          url: https://siva.jobstreet.com.
+          logo:     
+          description: 全球线上工作招聘平台
+        - title: BIPO
+          url: https://www.biposervice.com/
+          logo:     
+          description: 全球top的人力资源服务网站
+        - title: 新加坡人力资源网站MOM
+          url: https://www.mom.gov.sg/
+          logo:     
+          description: 新加坡人力资源网站
+        - title: Wuzzuf
+          url: https://wuzzuf.net/jobs/egypt
+          logo:     
+          description: 新加坡招聘网站
+        - title: mycareersfuture
+          url:  https://www.mycareersfuture.gov.sg/
+          logo:     
+          description: 新加坡政府招聘网站
 
+ 
 
 - taxonomy: 业务网站
   icon: fas fa-pencil-alt fa-lg
   list: 
     - term: 商业&数据榜单
       links:
-        - title: 微信读书
+        - title: 游戏新知
           url: https://weread.qq.com/
           logo: 微信读书.jpg
           description: 微信读书电脑版。
-        - title: 书栈网
+        - title: 游戏葡萄
           url: https://www.bookstack.cn/
           logo: 书栈网.jpg
           description: IT 互联网开源编程书籍免费阅读与下载。
-        - title: 开源中国
+        - title: 镝数聚
           logo: 开源中国.jpg
           url: https://www.oschina.net/
           description: 中文开源技术交流社区。
+        - title: dataAI CN 
+          url: https://www.bookstack.cn/
+          logo: 书栈网.jpg
+          description: IT 互联网开源编程书籍免费阅读与下载。
+        - title: 镝数聚
+          logo: 开源中国.jpg
+          url: https://www.oschina.net/
+          description: 中文开源技术交流社区。
+
+
     - term: 开发
       links:
         - title: GitHub
@@ -305,38 +354,45 @@
           logo: 开源中国.jpg
           url: https://www.oschina.net/
           description: 中文开源技术交流社区。
-        - title: 书栈网
-          url: https://www.bookstack.cn/
+        - title: V2EX
+          logo: v2ex.jpg
+          url: https://www.v2ex.com/
+          description: V2EX 创意工作者的社区。
+        - title: 程序员盒子
+          url: https://www.coderutil.com/
           logo: 书栈网.jpg
-          description: IT 互联网开源编程书籍免费阅读与下载。
+          description: 程序技术的学习手册以及日常办公用到的工具
     - term: 设计&美术
       links:
-        - title: 微信读书
-          url: https://weread.qq.com/
+        - title: 阿里巴巴矢量图标库
+          url: https://www.iconfont.cn/
           logo: 微信读书.jpg
-          description: 微信读书电脑版。
-        - title: 书栈网
-          url: https://www.bookstack.cn/
+          description: 各种图标、矢量插画，可下载
+        - title: 花瓣网
+          url: https://huaban.com/
           logo: 书栈网.jpg
-          description: IT 互联网开源编程书籍免费阅读与下载。
-        - title: 开源中国
+          description: 可以搜索设计素材
+        - title: 站酷
           logo: 开源中国.jpg
-          url: https://www.oschina.net/
-          description: 中文开源技术交流社区。
+          url: https://www.zcool.com.cn
+          description: 国内知名设计网站
+        - title: 优设网
+          logo: 开源中国.jpg
+          url: https://hao.uisdc.com
+          description: 国内知名设计网站        
+
     - term: 产品&运营
       links:
-        - title: 微信读书
+        - title: 人人都是产品经理
           url: https://weread.qq.com/
           logo: 微信读书.jpg
           description: 微信读书电脑版。
-        - title: 书栈网
+        - title: 三节课
           url: https://www.bookstack.cn/
           logo: 书栈网.jpg
           description: IT 互联网开源编程书籍免费阅读与下载。
-        - title: 开源中国
-          logo: 开源中国.jpg
-          url: https://www.oschina.net/
-          description: 中文开源技术交流社区。
+
+
     - term: 市场
       links:
         - title: 微信读书
@@ -351,6 +407,8 @@
           logo: 开源中国.jpg
           url: https://www.oschina.net/
           description: 中文开源技术交流社区。
+
+          
     - term: 商业化
       links:
         - title: 微信读书
