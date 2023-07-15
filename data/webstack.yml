@@ -4,12 +4,12 @@
   icon: far fa-star
   links: 
     - title: 理性梦想家
-      logo: 微派.png
+      logo: 郑兰.png
       url:  http://lan-zheng.github.io
       qrcode: assets/images/logos/理性梦想家.jpg
-      description: 理性构想家的公众号
+      description: 理性梦想家的公众号
     - title: GitHub博客
-      logo: 微派.png
+      logo: 郑兰.png
       url:  http://lan-zheng.github.io
       description: 新浪博客    
     - title: 微派网络
