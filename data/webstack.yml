@@ -82,7 +82,13 @@
         - title: HRROOT
           url: https://www.hroot.com
           logo: ncbi.jpg
-          description: OKR和持续绩效管理工具.         
+          description: OKR和持续绩效管理工具.     
+        - title: 哈佛商业评论
+          url: https://www.hbrchina.org/   
+          logo: ncbi.jpg
+          description: 学习管理与商业  
+
+          
     - term: HR招聘网站
       links:
         - title: BOSS直聘
@@ -244,11 +250,11 @@
       links:
         - title: linkedin
           url: https://linkedin.com/
-          logo: 微信读书.jpg
+          logo: linkedin.png
           description: 全球海外知名的人脉网站
         - title: facebook
           url: https://www.facebook.com
-          logo: 
+          logo: facebook.png
           description: 全球海外知名的人脉网站
         - title: HRTechChina
           url: https://www.facebook.com
@@ -256,7 +262,7 @@
           description: 全球海外知名的人脉网站
         - title: indeed
           url: https://cn.indeed.com/
-          logo: 微信读书.jpg
+          logo: indeed.png
           description: 北美的用户比较多
         - title: job street
           url: https://siva.jobstreet.com.
@@ -270,18 +276,6 @@
           url: https://www.facebook.com
           logo: 
           description: 全球海外知名的人脉网站
-        - title: indeed
-          url: https://cn.indeed.com/
-          logo: 微信读书.jpg
-          description: 北美的用户比较多
-        - title: job street
-          url: https://siva.jobstreet.com.
-          logo: 微信读书.jpg         
-          description: 北美的用户比较多           
-        - title: up work
-          url: https://siva.jobstreet.com.
-          logo:     
-          description: 全球线上工作招聘平台
         - title: BIPO
           url: https://www.biposervice.com/
           logo:     
@@ -344,7 +338,7 @@
           description: 各种图标、矢量插画，可下载
         - title: 花瓣网
           url: https://huaban.com/
-          logo: 书栈网.jpg
+          logo: 花瓣网.svg
           description: 可以搜索设计素材
         - title: 站酷
           logo: 开源中国.jpg
