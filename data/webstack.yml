@@ -341,7 +341,7 @@
           logo: 书栈网.jpg
           description: IT 互联网开源编程书籍免费阅读与下载。   
       - term: 业务-设计&美术
-      links:
+        links:
         - title: 阿里巴巴矢量图标库
           url: https://www.iconfont.cn/
           logo: 微信读书.jpg
