@@ -1,9 +1,19 @@
 ---
 
-- taxonomy: 效率工具
+- taxonomy: 常用工具平台
   icon: far fa-star
   links: 
-    - title: 微派官网
+    - title: 理性梦想家
+      logo: 微派.png
+      url:  http://lan-zheng.github.io
+      qrcode: assets/images/logos/qrcode.jpg
+      description: 理性梦想家的公众号
+    - title: github博客 理性梦想家
+      logo: 微派.png
+      url:  http://lan-zheng.github.io
+      qrcode: assets/images/logos/qrcode.jpg
+      description: 理性梦想家的博客    
+    - title: 微派网络
       logo: 微派.png
       url: https://wepie.com
       qrcode: assets/images/logos/qrcode.jpg
@@ -39,10 +49,10 @@
       description: 微信读书电脑版。
 
 
-- taxonomy: 综合型HR网站
+- taxonomy: HR网站
   icon: fas fa-flask fa-lg
   list:
-    - term: 学习类
+    - term: HR综合学习
       links:
         - title: 三茅网
           logo: ncbi.jpg
@@ -68,16 +78,12 @@
           logo: ncbi.jpg
           url: https://www.hrloo.com/
           description: OKR和持续绩效管理工具.                            
-    - term: 资讯类
+    - term: HR资讯
       links:
         - title: HRROOT
           url: https://www.hroot.com
           logo: ncbi.jpg
           description: OKR和持续绩效管理工具.         
-
-- taxonomy: 招聘选才
-  icon: fas fa-tools fa-lg
-  list: 
     - term: 招聘网站
       links:
         - title: BOSS直聘
@@ -126,11 +132,7 @@
           url: https://www.mbti.com
           logo: photoshop.png
           description: 职业性格测试题、性格测试介绍和职业性格分析
-
-- taxonomy: HRCOE
-  icon: fas fa-flask fa-lg
-  list:
-    - term: OKR&TOD&职级&文化
+    - term: HRCOE
       links:
         - title: OKR社区
           logo: ncbi.jpg
@@ -148,23 +150,13 @@
           logo: bioconda.jpg
           url:  https://www.qiqucn.com/
           description: 文化，游戏化员工激励平台
-
-       
-- taxonomy: HRBP
-  icon: fas fa-film fa-lg
-  list:
     - term: HRBP
       links:
         - title: HR实名俱乐部
           logo: 腾讯视频.png
           url: http://v.qq.com/
           description: 国内最早的HRBP布道公众号之一。
-
-
-- taxonomy: HRSSC
-  icon: far fa-folder-open fa-lg
-  list:
-    - term: 劳动关系
+    - term: HRSSC劳动关系
       links:
         - title: 元典智库
           logo: 百度网盘.jpg
@@ -186,7 +178,7 @@
           logo: 坚果云.png
           usrl: https://www.chsi.com.cn/
           description: 查询学历是否真实
-    - term: 薪酬个税&员工福利
+    - term: HRSSC薪酬个税&员工福利
       links:
         - title: salaryfly
           logo: Iconfinder.png
@@ -220,7 +212,7 @@
           logo: FindIcons.png
           url: http://www.chinatax.gov.cn/
           description: 个税相关政策
-    - term: 六险一金
+    - term: HRSSC六险一金
       links:
         - title: 武汉人力资源和社会保障局
           logo: Iconfinder.png
@@ -239,7 +231,7 @@
           logo: Iconfinder.png
           url: https://gjj.wuhan.gov.cn/
           description: 武汉公积金政策
-    - term: 外籍员工
+    - term: HRSSC涉外管理
       links:
         - title: 外国人来华工作管理服务平台
           logo: Iconfinder.png
@@ -249,11 +241,7 @@
           logo: Iconfinder.png
           url: http://cs.mfa.gov.cn/
           description: 签证的相关政策
-
-- taxonomy: 海外资源
-  icon: fas fa-pencil-alt fa-lg
-  list: 
-    - term: 海外综合网站
+    - term: 海外HR网站
       links:
         - title: linkedin
           url: https://linkedin.com/
@@ -375,7 +363,6 @@
           logo: 开源中国.jpg
           url: https://hao.uisdc.com
           description: 国内知名设计网站        
-
     - term: 产品&运营
       links:
         - title: 人人都是产品经理
