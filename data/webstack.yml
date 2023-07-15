@@ -18,6 +18,11 @@
       url: https://wepie.com
       qrcode: assets/images/logos/qrcode.jpg
       description: 武汉微派
+    - title: ChatGPT
+      logo: 语雀.jpg
+      url: https://chat.openai.com/
+      qrcode: assets/images/logos/qrcode.jpg
+      description: AIGC
     - title: 语雀
       logo: 语雀.jpg
       url: https://www.yuque.com/
@@ -78,8 +83,6 @@
           logo: ncbi.jpg
           url: https://www.hrloo.com/
           description: OKR和持续绩效管理工具.                            
-    - term: HR资讯
-      links:
         - title: HRROOT
           url: https://www.hroot.com
           logo: ncbi.jpg
@@ -126,7 +129,7 @@
           url: https://tuiguang.shixiseng.com/
           logo: blender.png
           description: 招实习生
-    - term: 人才测评
+    - term: HR人才测评
       links:
         - title: MBTI性格测试
           url: https://www.mbti.com
@@ -305,7 +308,7 @@
 - taxonomy: 业务网站
   icon: fas fa-pencil-alt fa-lg
   list: 
-    - term: 业务-商业&数据榜单
+    - term: 业务-商业&数据
       links:
         - title: 游戏新知
           url: https://weread.qq.com/
