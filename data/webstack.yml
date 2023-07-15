@@ -8,7 +8,7 @@
       url:  http://lan-zheng.github.io
       qrcode: assets/images/logos/qrcode.jpg
       description: 理性梦想家的公众号
-    - title: github博客 理性梦想家
+    - title: GitHub博客 理性梦想家
       logo: 微派.png
       url:  http://lan-zheng.github.io
       qrcode: assets/images/logos/qrcode.jpg
@@ -19,7 +19,7 @@
       qrcode: assets/images/logos/qrcode.jpg
       description: 武汉微派
     - title: ChatGPT
-      logo: 语雀.jpg
+      logo: chatgpt.png
       url: https://chat.openai.com/
       qrcode: assets/images/logos/qrcode.jpg
       description: AIGC

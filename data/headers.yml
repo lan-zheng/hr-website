@@ -8,6 +8,8 @@
   list:
     - name: 公众号
       url: "https://wepie.com"
+    - name: 微博
+      url: "https://weibo.com/u/2092415105"      
     - name: 博客
       url: "http://lan-zheng.github.io"
  
