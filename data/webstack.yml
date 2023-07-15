@@ -84,7 +84,7 @@
           url: https://www.hroot.com
           logo: ncbi.jpg
           description: OKR和持续绩效管理工具.         
-    - term: 招聘网站
+    - term: HR招聘网站
       links:
         - title: BOSS直聘
           url: https://www.adobe.com/cn/products/photoshop.html
@@ -178,7 +178,7 @@
           logo: 坚果云.png
           usrl: https://www.chsi.com.cn/
           description: 查询学历是否真实
-    - term: HRSSC薪酬个税&员工福利
+    - term: HRSSC薪酬个税
       links:
         - title: salaryfly
           logo: Iconfinder.png
@@ -305,7 +305,7 @@
 - taxonomy: 业务网站
   icon: fas fa-pencil-alt fa-lg
   list: 
-    - term: 商业&数据榜单
+    - term: 业务-商业&数据榜单
       links:
         - title: 游戏新知
           url: https://weread.qq.com/
@@ -327,7 +327,7 @@
           logo: 开源中国.jpg
           url: https://www.oschina.net/
           description: 中文开源技术交流社区。
-    - term: 开发
+    - term: 业务-开发
       links:
         - title: GitHub
           logo: github.jpg
@@ -345,7 +345,7 @@
           url: https://www.coderutil.com/
           logo: 书栈网.jpg
           description: 程序技术的学习手册以及日常办公用到的工具
-    - term: 设计&美术
+    - term: 业务-设计&美术
       links:
         - title: 阿里巴巴矢量图标库
           url: https://www.iconfont.cn/
@@ -363,7 +363,7 @@
           logo: 开源中国.jpg
           url: https://hao.uisdc.com
           description: 国内知名设计网站        
-    - term: 产品&运营
+    - term: 业务-产品&运营
       links:
         - title: 人人都是产品经理
           url: https://weread.qq.com/
@@ -373,7 +373,7 @@
           url: https://www.bookstack.cn/
           logo: 书栈网.jpg
           description: IT 互联网开源编程书籍免费阅读与下载。
-    - term: 市场
+    - term: 业务-市场
       links:
         - title: 微信读书
           url: https://weread.qq.com/
@@ -387,7 +387,7 @@
           logo: 开源中国.jpg
           url: https://www.oschina.net/
           description: 中文开源技术交流社区。
-    - term: 商业化
+    - term: 业务-商业化变现
       links:
         - title: 微信读书
           url: https://weread.qq.com/
