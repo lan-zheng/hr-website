@@ -155,10 +155,9 @@
     - term: HR人才测评
       links:
         - title: MBTI性格测试
-          logo: photoshop.png
+          logo: mbti.jpeg
           url: https://www.mbti.com
-
-          description: 职业性格测试题、性格测试介绍和职业性格分析
+          description: 知名性格测试
     - term: HRCOE
       links:
         - title: OKR社区
@@ -275,7 +274,7 @@
           url: https://linkedin.com/
           description: 全球海外知名的人脉网站
         - title: facebook
-          logo: facebook.png
+          logo: Facebook.png
           url: https://www.facebook.com
           description: 全球海外知名的人脉网站
         - title: HRTechChina
