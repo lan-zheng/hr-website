@@ -51,7 +51,7 @@
         - title: MeetHR
           logo: ncbi.jpg
           url: https://www.hrloo.com/
-          description: OKR和持续绩效管理工具.
+          description: OKR和持续绩效管理工具
          - title: HRGO
           logo: ncbi.jpg
           url: https://www.hrloo.com/
@@ -408,7 +408,7 @@
           url: https://www.oschina.net/
           description: 中文开源技术交流社区。
 
-          
+
     - term: 商业化
       links:
         - title: 微信读书
