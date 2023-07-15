@@ -93,31 +93,30 @@
       links:
         - title: BOSS直聘
           url: https://www.adobe.com/cn/products/photoshop.html
-          logo: photoshop.png
-          description: Photoshop不需要解释
+          logo: boss.png
+          description: Dau最高的招聘网站
         - title: 脉脉
           url: https://affinity.serif.com/
-          logo: AffinityDesigner.png
-          description: 专业创意软件
+          logo: 脉脉.png
+          description: 新兴招聘和人脉网站
         - title: 猎聘网
           url: https://www.adobe.com/cn/products/illustrator/
-          logo: Illustrator.png
-          description: 矢量图形和插图。
+          logo: 猎聘.png
+          description: 有稀缺资源。
         - title: 拉勾网
           url: http://www.adobe.com/cn/products/indesign.html
-          logo: INDESIGN .png
-          description: 页面设计、布局和出版。
+          logo: 拉勾.png
+          description: 老牌招聘网站。
         - title: 51job
-          url: https://www.maxon.net/en/products/cinema-4d/overview/
-          logo: cinema4d.png
-          description: Cinema 4D is the perfect package for all 3D artists who want to achieve breathtaking results fast and hassle-free.
-        - title: 前程无忧
-          url: https://www.autodesk.com/products/3ds-max/overview
-          logo: 3dsmax.png
-          description: 3D modeling, animation, and rendering software
+          url: https://www.51job.com
+          logo: 51job.png
+          description: 老牌招聘网站
+          url: https://www.zhaopin.com
+          logo: 智联.png
+          description: 老牌招聘网站
         - title: 牛客网
           url: https://www.blender.org/
-          logo: blender.png
+          logo: 牛客网.png
           description: Blender is the free and open source 3D creation suite.
         - title: HR圈内招聘网
           url: http://www.hrjob360.com/
@@ -264,7 +263,7 @@
           url: https://cn.indeed.com/
           logo: indeed.png
           description: 北美的用户比较多
-        - title: job street
+        - title: jobstreet
           url: https://siva.jobstreet.com.
           logo: 微信读书.jpg         
           description: 北美的用户比较多                  
@@ -272,13 +271,13 @@
           url: https://www.upwork.com/
           logo: 微信读书.jpg    
           description: 全球线上工作招聘平台
-        - title: HRTechChina
+        - title: 
           url: https://www.facebook.com
           logo: 
           description: 全球海外知名的人脉网站
         - title: BIPO
           url: https://www.biposervice.com/
-          logo:     
+          logo: bipo.png    
           description: 全球top的人力资源服务网站
         - title: 新加坡人力资源网站MOM
           url: https://www.mom.gov.sg/
