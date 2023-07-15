@@ -152,8 +152,6 @@
           logo: blender.png
           url: https://tuiguang.shixiseng.com/
           description: 招实习生
-    - term: HR人才测评
-      links:
         - title: MBTI性格测试
           logo: mbti.jpeg
           url: https://www.mbti.com
@@ -176,6 +174,28 @@
           logo: bioconda.jpg
           url:  https://www.qiqucn.com/
           description: 文化，游戏化员工激励平台
+        - title: 培训经理指南
+          logo: bioconda.jpg
+          url:  https://www.qiqucn.com/
+          description: 培训公众号
+        - title: 培训杂志
+          logo: bioconda.jpg
+          url:  https://www.qiqucn.com/
+          description: 公众号
+        - title: 培训江湖
+          logo: bioconda.jpg
+          url:  https://www.qiqucn.com/
+          description: 公众号
+        - title: DDI
+          logo: bioconda.jpg
+          url:  https://www.qiqucn.com/
+          description: 培训平台
+          - title: 竞越
+          logo: bioconda.jpg
+          url:  https://www.qiqucn.com/
+          description: 培训平台
+
+                 
     - term: HRBP
       links:
         - title: HR实名俱乐部
@@ -267,7 +287,7 @@
           logo: Iconfinder.png
           url: http://cs.mfa.gov.cn/
           description: 签证的相关政策
-    - term: 海外HR网站
+    - term: 海外HR专题
       links:
         - title: linkedin
           logo: linkedin.png   
