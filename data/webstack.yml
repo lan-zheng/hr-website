@@ -120,7 +120,6 @@
           url: https://tuiguang.shixiseng.com/
           logo: blender.png
           description: 招实习生
-
     - term: 人才测评
       links:
         - title: MBTI性格测试
@@ -185,7 +184,7 @@
           description: 劳动法网站 
         - title: 学信网
           logo: 坚果云.png
-          usrl: https://www.chsi.com.cn/，
+          usrl: https://www.chsi.com.cn/
           description: 查询学历是否真实
     - term: 薪酬个税&员工福利
       links:
@@ -221,8 +220,6 @@
           logo: FindIcons.png
           url: http://www.chinatax.gov.cn/
           description: 个税相关政策
-
-
     - term: 六险一金
       links:
         - title: 武汉人力资源和社会保障局
@@ -342,8 +339,6 @@
           logo: 开源中国.jpg
           url: https://www.oschina.net/
           description: 中文开源技术交流社区。
-
-
     - term: 开发
       links:
         - title: GitHub
@@ -391,8 +386,6 @@
           url: https://www.bookstack.cn/
           logo: 书栈网.jpg
           description: IT 互联网开源编程书籍免费阅读与下载。
-
-
     - term: 市场
       links:
         - title: 微信读书
@@ -407,8 +400,6 @@
           logo: 开源中国.jpg
           url: https://www.oschina.net/
           description: 中文开源技术交流社区。
-
-
     - term: 商业化
       links:
         - title: 微信读书
