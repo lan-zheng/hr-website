@@ -190,12 +190,10 @@
           logo: bioconda.jpg
           url:  https://www.qiqucn.com/
           description: 培训平台
-          - title: 竞越
+        - title: 竞越
           logo: bioconda.jpg
           url:  https://www.qiqucn.com/
-          description: 培训平台
-
-                 
+          description: 培训平台                
     - term: HRBP
       links:
         - title: HR实名俱乐部
@@ -345,18 +343,14 @@
           url: https://www.bookstack.cn/
           logo: 书栈网.jpg
           description: IT 互联网开源编程书籍免费阅读与下载
-        - title: 镝数聚
+        - title: 腾讯游戏学院
           logo: 开源中国.jpg
           url: https://www.oschina.net/
-          description: 中文开源技术交流社区
-        - title: dataAI CN 
-          url: https://www.bookstack.cn/
-          logo: 书栈网.jpg
-          description: IT 互联网开源编程书籍免费阅读与下载
-        - title: 镝数聚
+          description: 腾讯官方平台
+        - title: 网易游戏学院
           logo: 开源中国.jpg
           url: https://www.oschina.net/
-          description: 中文开源技术交流社区
+          description: 网易官方平台
     - term: 业务-产品&运营
       links:
         - title: 人人都是产品经理
@@ -405,18 +399,18 @@
           description: 程序技术的学习手册以及日常办公用到的工具
     - term: 业务-市场
       links:
+        - title: 镝数聚
+          logo: 开源中国.jpg
+          url: https://www.oschina.net/
+          description: 中文开源技术交流社区
+        - title: dataAI CN 
+          url: https://www.bookstack.cn/
+          logo: 书栈网.jpg
+          description: IT 互联网开源编程书籍免费阅读与下载
         - title: 微信读书
           url: https://weread.qq.com/
           logo: 微信读书.jpg
           description: 微信读书电脑版
-        - title: 书栈网
-          url: https://www.bookstack.cn/
-          logo: 书栈网.jpg
-          description: IT 互联网开源编程书籍免费阅读与下载。
-        - title: 开源中国
-          logo: 开源中国.jpg
-          url: https://www.oschina.net/
-          description: 中文开源技术交流社区
     - term: 业务-商业化变现
       links:
         - title: 微信读书
