@@ -1,5 +1,26 @@
 ---
 
+- taxonomy: 管理类书籍榜单
+  icon: fa fa-book
+  links: 
+    - title: 京东管理类书籍榜单
+      logo: 京东.jpeg
+      url:  https://www.jd.com/phb/key_1713f872155722afbdf2.html
+      description: 京东读书的排行榜
+    - title: 亚马逊管理类书籍榜单
+      logo: 亚马逊.png
+      url:  https://www.amazon.cn/gp/bestsellers/books/658399051?rw_useCurrentProtocol=1&ref_=amb_link_5_WWh7U4S2SyO3JkINgE4g_35
+      description: 亚马逮读书的排行榜
+    - title: 当当管理类书籍榜单
+      logo: 当当.png
+      url:  http://bang.dangdang.com/books/bestsellers/01.00.00.00.00.00-year-2022-0-1-1
+      description: 当当读书的排行榜
+    - title: 豆瓣管理类书籍榜单
+      logo: 豆瓣.jpeg
+      url:  https://book.douban.com/
+      description: 豆瓣读书的排行榜   
+
+
 - taxonomy: 常用工具平台
   icon: far fa-star
   links: 
@@ -23,31 +44,31 @@
     - title: 语雀
       logo: 语雀.jpg
       url: https://www.yuque.com/
-      description: 专业的云端知识库。
+      description: 专业的云端知识库
     - title: 邮箱
       logo: qq邮箱.png
       url: http://mail.qq.com/
-      description: 腾讯 QQ 邮箱。
+      description: 腾讯 QQ 邮箱
     - title: 公众号平台
       logo: 微信公众号.png
       url: https://mp.weixin.qq.com/
-      description: 再小的个体也有自己的品牌。
+      description: 再小的个体也有自己的品牌
     - title: 搜狗微信
       logo: 搜狗微信.jpg
       url: https://weixin.sogou.com/
-      description: 搜狗微信搜索，一搜即达。
+      description: 搜狗微信搜索，一搜即达
     - title: 知乎
       logo: 知乎.png
       url: https://www.zhihu.com/
-      description: 知乎社区。
+      description: 知乎社区
     - title: ProcessOn
       logo: ProcessOn.png
       url: https://www.processon.com/
-      description: 免费在线作图、实时协作。
+      description: 免费在线作图、实时协作
     - title: 微信读书
       url: https://weread.qq.com/
       logo: 微信读书.jpg
-      description: 微信读书电脑版。
+      description: 微信读书电脑版
 
 
 - taxonomy: HR网站
@@ -58,31 +79,31 @@
         - title: 三茅网
           logo: ncbi.jpg
           url: https://www.hrloo.com/
-          description: OKR和持续绩效管理工具.
+          description: OKR和持续绩效管理工具
         - title: MeetHR
           logo: ncbi.jpg
           url: https://www.hrloo.com/
-          description: 微信读书电脑版.
+          description: 微信读书电脑版
         - title: HRGO
           logo: ncbi.jpg
           url: https://www.hrloo.com/
-          description: OKR和持续绩效管理工具.       
+          description: OKR和持续绩效管理工具       
         - title: 高绩效HR
           logo: ncbi.jpg
           url: https://www.hrloo.com/
-          description: OKR和持续绩效管理工具.
+          description: OKR和持续绩效管理工具
         - title: 首席组织官
           logo: ncbi.jpg
           url: https://www.hrloo.com/
-          description: OKR和持续绩效管理工具.  
+          description: OKR和持续绩效管理工具  
         - title: 环球人力资源智库
           logo: ncbi.jpg
           url: https://www.hrloo.com/
-          description: OKR和持续绩效管理工具.                            
+          description: OKR和持续绩效管理工具                           
         - title: HRROOT
           url: https://www.hroot.com
           logo: ncbi.jpg
-          description: OKR和持续绩效管理工具.     
+          description: OKR和持续绩效管理工具    
         - title: 哈佛商业评论
           url: https://www.hbrchina.org/   
           logo: ncbi.jpg
@@ -102,11 +123,11 @@
         - title: 猎聘网
           logo: 猎聘.png
           url: https://www.leipin.com/
-          description: 有稀缺资源。
+          description: 有稀缺资源
         - title: 拉勾网
           logo: 拉勾.png
           url: http://www.lagou.com
-          description: 老牌招聘网站。
+          description: 老牌招聘网站
         - title: 51job
           logo: 51job.png
           url: https://www.51job.com
@@ -122,7 +143,7 @@
         - title: HR圈内招聘网
           logo: blender.png
           url: http://www.hrjob360.com/
-          description: 招聘HR.
+          description: 招聘HR
         - title: 海投网
           logo: blender.png
           url: http://www.hrjob360.com/
@@ -143,7 +164,7 @@
         - title: OKR社区
           logo: ncbi.jpg
           url: https://club.tita.com
-          description: OKR和持续绩效管理工具.
+          description: OKR和持续绩效管理工具
         - title: CSTD 中国人才发展平台
           logo: bioconda.jpg
           url: http://www.cstd.cn/
@@ -161,7 +182,7 @@
         - title: HR实名俱乐部
           logo: 腾讯视频.png
           url: http://v.qq.com/
-          description: 国内最早的HRBP布道公众号之一。
+          description: 国内最早的HRBP布道公众号之一
     - term: HRSSC劳动关系
       links:
         - title: 元典智库
@@ -193,7 +214,7 @@
         - title: 薪情51salary
           logo: Iconfinder.png
           url: https://www.51salary.com
-          description: 一个专业的行业薪酬查询平台.
+          description: 一个专业的行业薪酬查询平台
         - title: 薪人薪事
           logo: iconfont.png
           url: https://www.xinrenxinshi.com/calculator
@@ -201,7 +222,7 @@
         - title: 众乐邦
           logo: iconmonstr.png
           url: https://www.zlbzb.cn/#/login
-          description: 合规灵活用工平台.
+          description: 合规灵活用工平台
         - title: 个税计算器
           logo: iconarchive.png
           url: https://gerensuodeshui.cn/
@@ -300,33 +321,33 @@
         - title: 游戏新知
           url: https://weread.qq.com/
           logo: 微信读书.jpg
-          description: 微信读书电脑版。
+          description: 微信读书电脑版
         - title: 游戏葡萄
           url: https://www.bookstack.cn/
           logo: 书栈网.jpg
-          description: IT 互联网开源编程书籍免费阅读与下载。
+          description: IT 互联网开源编程书籍免费阅读与下载
         - title: 镝数聚
           logo: 开源中国.jpg
           url: https://www.oschina.net/
-          description: 中文开源技术交流社区。
+          description: 中文开源技术交流社区
         - title: dataAI CN 
           url: https://www.bookstack.cn/
           logo: 书栈网.jpg
-          description: IT 互联网开源编程书籍免费阅读与下载。
+          description: IT 互联网开源编程书籍免费阅读与下载
         - title: 镝数聚
           logo: 开源中国.jpg
           url: https://www.oschina.net/
-          description: 中文开源技术交流社区。
+          description: 中文开源技术交流社区
     - term: 业务-产品&运营
       links:
         - title: 人人都是产品经理
           url: https://weread.qq.com/
           logo: 微信读书.jpg
-          description: 微信读书电脑版。
+          description: 微信读书电脑版
         - title: 三节课
           url: https://www.bookstack.cn/
           logo: 书栈网.jpg
-          description: IT 互联网开源编程书籍免费阅读与下载。   
+          description: IT 互联网开源编程书籍免费阅读与下载 
     - term: 业务-设计&美术
       links:
         - title: 阿里巴巴矢量图标库
@@ -368,7 +389,7 @@
         - title: 微信读书
           url: https://weread.qq.com/
           logo: 微信读书.jpg
-          description: 微信读书电脑版。
+          description: 微信读书电脑版
         - title: 书栈网
           url: https://www.bookstack.cn/
           logo: 书栈网.jpg
@@ -376,18 +397,18 @@
         - title: 开源中国
           logo: 开源中国.jpg
           url: https://www.oschina.net/
-          description: 中文开源技术交流社区。
+          description: 中文开源技术交流社区
     - term: 业务-商业化变现
       links:
         - title: 微信读书
           url: https://weread.qq.com/
           logo: 微信读书.jpg
-          description: 微信读书电脑版。
+          description: 微信读书电脑版
         - title: 书栈网
           url: https://www.bookstack.cn/
           logo: 书栈网.jpg
-          description: IT 互联网开源编程书籍免费阅读与下载。
+          description: IT 互联网开源编程书籍免费阅读与下载
         - title: 开源中国
           logo: 开源中国.jpg
           url: https://www.oschina.net/
-          description: 中文开源技术交流社区。
+          description: 中文开源技术交流社区
