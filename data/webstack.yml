@@ -92,49 +92,51 @@
     - term: HR招聘网站
       links:
         - title: BOSS直聘
-          url: https://www.adobe.com/cn/products/photoshop.html
-          logo: boss.png
+          logo : boss.png
+          url: https:/zhipin.com/
           description: Dau最高的招聘网站
         - title: 脉脉
-          url: https://affinity.serif.com/
-          logo: 脉脉.png
+          logo: 脉脉.png        
+          url: https://maimai.com
           description: 新兴招聘和人脉网站
         - title: 猎聘网
-          url: https://www.adobe.com/cn/products/illustrator/
           logo: 猎聘.png
+          url: https://www.leipin.com/
           description: 有稀缺资源。
         - title: 拉勾网
-          url: http://www.adobe.com/cn/products/indesign.html
           logo: 拉勾.png
+          url: http://www.lagou.com
           description: 老牌招聘网站。
         - title: 51job
-          url: https://www.51job.com
           logo: 51job.png
+          url: https://www.51job.com
           description: 老牌招聘网站
+        - title: 智联招聘   
+          logo: 智联.png       
           url: https://www.zhaopin.com
-          logo: 智联.png
           description: 老牌招聘网站
         - title: 牛客网
-          url: https://www.blender.org/
           logo: 牛客网.png
-          description: Blender is the free and open source 3D creation suite.
+          url: https://www.nowcoder.com/
+          description: 校招平台
         - title: HR圈内招聘网
-          url: http://www.hrjob360.com/
           logo: blender.png
+          url: http://www.hrjob360.com/
           description: 招聘HR.
         - title: 海投网
-          url: http://www.hrjob360.com/
           logo: blender.png
+          url: http://www.hrjob360.com/
           description: 招实习生和应届生
         - title: 实习僧
-          url: https://tuiguang.shixiseng.com/
           logo: blender.png
+          url: https://tuiguang.shixiseng.com/
           description: 招实习生
     - term: HR人才测评
       links:
         - title: MBTI性格测试
-          url: https://www.mbti.com
           logo: photoshop.png
+          url: https://www.mbti.com
+
           description: 职业性格测试题、性格测试介绍和职业性格分析
     - term: HRCOE
       links:
@@ -248,48 +250,44 @@
     - term: 海外HR网站
       links:
         - title: linkedin
+          logo: linkedin.png   
           url: https://linkedin.com/
-          logo: linkedin.png
           description: 全球海外知名的人脉网站
         - title: facebook
-          url: https://www.facebook.com
           logo: facebook.png
+          url: https://www.facebook.com
           description: 全球海外知名的人脉网站
         - title: HRTechChina
           url: https://www.facebook.com
-          logo: 
+          logo: hrtechchina.png
           description: 全球海外知名的人脉网站
         - title: indeed
-          url: https://cn.indeed.com/
           logo: indeed.png
+          url: https://cn.indeed.com/
           description: 北美的用户比较多
         - title: jobstreet
-          url: https://siva.jobstreet.com.
-          logo: 微信读书.jpg         
+          logo: 微信读书.jpg     
+          url: https://siva.jobstreet.com
           description: 北美的用户比较多                  
         - title: up work
+          ogo: 微信读书.jpg    
           url: https://www.upwork.com/
-          logo: 微信读书.jpg    
           description: 全球线上工作招聘平台
-        - title: 
-          url: https://www.facebook.com
-          logo: 
-          description: 全球海外知名的人脉网站
         - title: BIPO
+          logo: bipo.png  
           url: https://www.biposervice.com/
-          logo: bipo.png    
           description: 全球top的人力资源服务网站
         - title: 新加坡人力资源网站MOM
+          logo:   
           url: https://www.mom.gov.sg/
-          logo:     
           description: 新加坡人力资源网站
         - title: Wuzzuf
-          url: https://wuzzuf.net/jobs/egypt
           logo:     
+          url: https://wuzzuf.net/jobs/egypt
           description: 新加坡招聘网站
         - title: mycareersfuture
-          url:  https://www.mycareersfuture.gov.sg/
           logo:     
+          url:  https://www.mycareersfuture.gov.sg/
           description: 新加坡政府招聘网站
 
  
