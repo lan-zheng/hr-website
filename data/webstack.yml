@@ -6,27 +6,23 @@
     - title: 理性梦想家
       logo: 微派.png
       url:  http://lan-zheng.github.io
-      qrcode: assets/images/logos/qrcode.jpg
-      description: 理性梦想家的公众号
-    - title: GitHub博客 理性梦想家
+      qrcode: assets/images/logos/理性梦想家.jpg
+      description: 理性构想家的公众号
+    - title: GitHub博客
       logo: 微派.png
       url:  http://lan-zheng.github.io
-      qrcode: assets/images/logos/qrcode.jpg
-      description: 理性梦想家的博客    
+      description: 新浪博客    
     - title: 微派网络
       logo: 微派.png
       url: https://wepie.com
-      qrcode: assets/images/logos/qrcode.jpg
       description: 武汉微派
     - title: ChatGPT
       logo: chatgpt.png
       url: https://chat.openai.com/
-      qrcode: assets/images/logos/qrcode.jpg
       description: AIGC
     - title: 语雀
       logo: 语雀.jpg
       url: https://www.yuque.com/
-      qrcode: assets/images/logos/qrcode.jpg
       description: 专业的云端知识库。
     - title: 邮箱
       logo: qq邮箱.png
