@@ -6,23 +6,23 @@
     - title: 京东管理类书籍榜单
       logo: 京东.jpeg
       url:  https://www.jd.com/phb/key_1713f872155722afbdf2.html
-      description: 京东读书的排行榜
+      description: 京东读书排行榜
     - title: 亚马逊管理类书籍榜单
       logo: 亚马逊.png
       url:  https://www.amazon.cn/gp/bestsellers/books/658399051?rw_useCurrentProtocol=1&ref_=amb_link_5_WWh7U4S2SyO3JkINgE4g_35
-      description: 亚马逮读书的排行榜
+      description: 亚马逊读书的排行榜
     - title: 当当管理类书籍榜单
       logo: 当当.png
       url:  http://bang.dangdang.com/books/bestsellers/01.00.00.00.00.00-year-2022-0-1-1
-      description: 当当读书的排行榜
+      description: 当当读书排行榜
     - title: 豆瓣管理类书籍榜单
       logo: 豆瓣.jpeg
       url:  https://book.douban.com/
-      description: 淘宝管理书籍榜单 
+      description: 豆瓣读书排行榜 
     - title: 豆瓣管理类书籍榜单
       logo: taobao.jpeg
       url:  https://www.taobao.com/list/category/50000063.htm?spm=a21wu.10013406-cat.breadcrumb.3.5d914f36hIoVLo
-      description: 淘宝读书的排行榜 
+      description: 淘宝读书排行榜 
 
    
 
