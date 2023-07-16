@@ -224,35 +224,35 @@
     - term: HRSSC薪酬个税
       links:
         - title: salaryfly
-          logo: Iconfinder.png
+          logo: 钱.png
           url:  https://salaryfly.com/
           description: 大厂薪资查询
         - title: 薪情51salary
-          logo: Iconfinder.png
+          logo: 51薪资.png
           url: https://www.51salary.com
           description: 一个专业的行业薪酬查询平台
         - title: 薪人薪事
-          logo: iconfont.png
+          logo: 薪人薪事.png
           url: https://www.xinrenxinshi.com/calculator
           description: 税前税后薪资计算器。
         - title: 众乐邦
-          logo: iconmonstr.png
+          logo: 众乐邦.png
           url: https://www.zlbzb.cn/#/login
           description: 合规灵活用工平台
         - title: 个税计算器
-          logo: iconarchive.png
+          logo: 个税.png
           url: https://gerensuodeshui.cn/
           description: 在线计算个税
         - title: Worldatwork
-          logo: FindIcons.png
+          logo: WorldatWork_logo-color_1.1.svg
           url: https://worldatwork.org/
           description: 世界薪酬协会
         - title: 香港交易所
-          logo: iconarchive.png
+          logo: 香港交易所.png
           url: https://www.hkex.com.hk/
           description: 香港上市公司的年报，可以获取薪酬、员工发展的一些数据
         - title: 国家税务总局
-          logo: FindIcons.png
+          logo: 国家税务总局.png
           url: http://www.chinatax.gov.cn/
           description: 个税相关政策
     - term: HRSSC六险一金
