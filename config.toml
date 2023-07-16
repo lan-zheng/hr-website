@@ -11,8 +11,8 @@ publishDir            = "public"					# 站点静态文件保存目录
 [params]
     author        = "lan zheng"
     description   = "Hello HR | HR导航网站"
-    upload        = "https://www.yuque.com/zhenglan/yfq8ol/oui94omdox7kn821"  # 左侧导航栏的"网站提交"
-    about         = "https://www.yuque.com/zhenglan/yfq8ol/oui94omdox7kn821" 	# 左侧导航栏的"关于导航"页面(./about)
+    upload        = "https://www.yuque.com/zhenglan/yfq8ol/oui94omdox7kn821"  # 左侧导航栏的"新的网站推荐"
+    about         = "https://www.yuque.com/zhenglan/yfq8ol/oui94omdox7kn821" 	# 左侧导航栏的"关于HR导航"页面(./about)
     repository    = "https://www.yuque.com/zhenglan/yfq8ol/oui94omdox7kn821"  
     enablePreLoad = true					# 网站完全打开前预加载动画
     textPreLoad   = "HR 网址导航"				# 预加载的动画文字, 只有当enablePreLoad=true时生效

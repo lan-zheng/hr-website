@@ -6,7 +6,7 @@
   icon: fa fa-book
   link: ""
   list:
-    - name: 公众号-理性梦想家
+    - name: 公众号理性梦想家
       qrcode: assets/images/logos/理性梦想家.jpg
     - name: 微博
       url: "https://weibo.com/u/2092415105"      
