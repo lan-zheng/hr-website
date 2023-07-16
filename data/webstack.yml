@@ -429,7 +429,7 @@
           logo: homebrew.svg
           url: https://brew.sh/
           description: 适用于Mac系统的软件管理工具
-         - title: hugo中文社区
+        - title: hugo中文社区
           logo: hugo.png
           url: https://www.gohugo.org/
           description: hugo的中文网站          
