@@ -158,41 +158,42 @@
     - term: HRCOE
       links:
         - title: OKR社区
-          logo: ncbi.jpg
+          logo: okr.png
           url: https://club.tita.com
           description: OKR和持续绩效管理工具
         - title: CSTD 中国人才发展平台
-          logo: bioconda.jpg
+          logo: 中国人才发展平台.png
           url: http://www.cstd.cn/
           description: 培训网站
         - title: 职级对标
-          logo: bioconda.jpg
+          logo: 对标.png
           url: https://duibiao.info/addLadder
           description: 查看职级的网站 
         - title: 企趣
-          logo: bioconda.jpg
+          logo: 企趣.png
           url:  https://www.qiqucn.com/
           description: 文化，游戏化员工激励平台
         - title: 培训经理指南
-          logo: bioconda.jpg
-          url:  https://www.qiqucn.com/
+          logo: 培训经理指南.png
           description: 培训公众号
         - title: 培训杂志
-          logo: bioconda.jpg
-          url:  https://www.qiqucn.com/
+          logo: 培训杂志.png
           description: 公众号
         - title: 培训江湖
-          logo: bioconda.jpg
-          url:  https://www.qiqucn.com/
+          logo: 培训江湖.png
           description: 公众号
         - title: DDI
-          logo: bioconda.jpg
-          url:  https://www.qiqucn.com/
+          logo: ddi.png
+          url: https://www.ddiworld.com/
           description: 培训平台
         - title: 竞越
-          logo: bioconda.jpg
-          url:  https://www.qiqucn.com/
-          description: 培训平台                
+          logo: 竞越.png
+          url:  http://www.first-priority.com.cn/
+          description: 培训平台     
+        - title: 武大人力资源培训中心
+          logo: 武汉大学培训.png
+          url:  http://www.first-priority.com.cn/
+          description: 武汉大学人力资源培训中心            
     - term: HRBP
       links:
         - title: HR实名俱乐部
