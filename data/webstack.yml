@@ -159,11 +159,16 @@
           logo: mba.jpeg
           url: https://www.mbalib.com/      
           description: 管理者成长平台  
-        - title: 和君商学
-          logo: 和君商学.png
-          url:  https://s.hejunedu.com/student/enroll  
-          description: 商学院           
-
+        - title: 私人AI交流机器人
+          logo: 机器人.png
+          url: https://heypi.com/talk?scr    
+          description: 个人英语AI机器人 
+        - title: TED
+          logo: ted.png
+          url:  https://www.ted.com/
+          description: 英语和全球视野 
+         
+       
 
    
     - term: HR招聘网站
@@ -287,7 +292,6 @@
           logo: 美世.png
           url:  https://www.mercer.com.cn/
           description: 美世咨询      
-
     - term: HRBP
       links:
         - title: HR案例网
@@ -434,7 +438,6 @@
           description: 新加坡政府招聘网站
 
  
-
 - taxonomy: 业务网站
   icon: fas fa-pencil-alt fa-lg
   list: 
@@ -452,6 +455,14 @@
           logo: 36kr.png
           url: https://36kr.com/
           description: 国内知名互联网资讯网站
+        - title: 混沌学园
+          logo: 混沌.jpeg
+          url: https://www.hundun.cn/course
+          description: 创业者的学习平台
+        - title: 和君商学
+          logo: 和君商学.png
+          url:  https://s.hejunedu.com/student/enroll  
+          description: 商学院    
         - title: 游戏新知
           logo: 游戏新知.png
           url: https://www.gameweibo.com/authorview/11197
