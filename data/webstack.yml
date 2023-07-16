@@ -143,7 +143,14 @@
         - title: HRoot
           logo: hroot.png
           url: https://www.hroot.com
-          description: HR资讯网站    
+          description: HR资讯网站  
+        - title: MBA智库
+          logo: mba.jpeg
+          url: https://www.mbalib.com/      
+          description: 管理者成长平台  
+
+        
+   
     - term: HR招聘网站
       links:
         - title: BOSS直聘
@@ -237,6 +244,35 @@
           logo: 腾讯乐享.png
           url: https://lexiangla.com/home
           description: 腾讯企业建站社区 
+        - title: 创业酵母
+          logo: 管用.jpeg
+          url:  https://www.cyjiaomu.com/  
+          description: 阿里张丽俊创立的HR平台
+        - title: 基业长青
+          logo: 基业长青.png
+          url:  http://www.builast.com/
+          description: 华为吴建国创立的咨询公司
+        - title: 华夏基石
+          logo: 华夏基石.png
+          url:  http://www.chnstone.com.cn/index.html
+          description: 阿里的背景，知名咨询公司
+        - title: 德勤
+          logo: 德勤.png
+          url:  https://www2.deloitte.com/cn/zh/services/consulting.html?icid=top_consulting
+          description: 德勤咨询         
+        - title: 光辉国际
+          logo: 光辉国际.png
+          url:  https://www.kornferry.com/zh
+          description: 光辉国际咨询
+        - title: 肯耐珂萨
+          logo: 肯耐珂萨.png
+          url:  https://www.knx.com.cn/
+          description: 肯耐珂萨组织效能提升
+        - title: 美世
+          logo: 美世.png
+          url:  https://www.mercer.com.cn/
+          description: 美世咨询      
+
     - term: HRBP
       links:
         - title: HR案例网
