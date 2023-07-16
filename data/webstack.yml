@@ -37,11 +37,27 @@
     - title: 理性梦想家
       logo: 新浪.jpeg
       url: https://weibo.com/u/2092415105  
-      description: 郑兰的新浪博客    
+      description: 郑兰的新浪博客 
+    - title: 少数派
+      logo: 少数派.jpeg
+      url: https://sspai.com/
+      description: 用的最多的效率类网站     
     - title: ChatGPT
       logo: chatgpt.png
       url: https://chat.openai.com/
       description: AIGC
+    - title: 优设AI导航
+      logo: 优设.png
+      url:  https://hao.uisdc.com/ai/
+      description: AIGC导航相关
+    - title: 腾讯帮小忙
+      logo: 帮小忙.png
+      url: https://tool.browser.qq.com/
+      description: 腾讯QQ浏览器在线工具箱
+    - title: 班叔
+      logo: 新浪.jpeg
+      url: https://weibo.com/cmzyk
+      description: 微博效率大v      
     - title: 知乎
       logo: 知乎.png
       url: https://www.zhihu.com/
@@ -50,10 +66,10 @@
       url: https://weread.qq.com/
       logo: 微信读书.jpg
       description: 微信读书电脑版
-    - title: 少数派
-      url: https://sspai.com/
-      logo: 少数派.jpeg
-      description: 用的最多的效率类网站  
+    - title: 华科图书馆
+      logo: 华科.png
+      url: https://libresource.hust.edu.cn/dbs-navigation
+      description: 华科的图书馆
     - title: 语雀
       logo: 语雀.jpg
       url: https://www.yuque.com/
@@ -74,14 +90,6 @@
       logo: ProcessOn.png
       url: https://www.processon.com/ 
       description: 免费在线作图、实时协作
-    - title: 腾讯帮小忙
-      logo: 帮小忙.png
-      url: https://tool.browser.qq.com/
-      description: 腾讯QQ浏览器在线工具箱
-    - title: 班叔
-      logo: 新浪.jpeg
-      url: https://weibo.com/cmzyk
-      description: 微博效率大v
     - title: 得到
       logo: 得到.png
       url: https://www.dedao.cn/
@@ -98,6 +106,10 @@
       logo: 网易公开课.jpeg
       url: https://open.163.com/
       description: 网易公开课课程
+    - title: 今日热榜
+      logo: 今日热榜.jpeg
+      url: https://tophub.today/c/news
+      description: 所有热点新闻
     - title: 新加坡早报
       logo: 新加坡早报.jpeg
       url: https://www.zaobao.com.sg/news/singapore
@@ -106,11 +118,9 @@
       logo: 21.jpeg
       url: http://www.21jingji.com/
       description: 财经类知名平台，需要了解
-    - title: 华科图书馆
-      logo: 华科.png
-      url: https://libresource.hust.edu.cn/dbs-navigation
-      description: 华科的图书馆
+
       
+     
 
 
 - taxonomy: HR网站
