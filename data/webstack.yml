@@ -89,7 +89,7 @@
     - title: 班叔
       logo: 新浪.jpeg
       url: https://weibo.com/cmzyk
-      description: 微派效率大v
+      description: 微博效率大v
 
 
 - taxonomy: HR网站
@@ -453,15 +453,15 @@
     - term: 业务-市场
       links:
         - title: 巨量引擎
-          ogo: 巨量引擎.png
+          ogo: 巨量.png
           url: https://www.oceanengine.com/
           description: 字节的营销王国  
         - title: 七麦数据
-          logo: 七麦.jpeg
+          logo: qimai.jpeg
           url: https://www.qimai.cn/
           description: 国内知名数据平台
         - title: 点点数据
-          logo: 点点数据.png
+          logo: diandian.png
           url: https://app.diandian.com/
           description: 国内知名数据平台
         - title: dataai
