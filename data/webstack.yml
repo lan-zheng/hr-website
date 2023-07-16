@@ -28,11 +28,11 @@
       logo: 郑兰.png
       url:  http://lan-zheng.github.io
       qrcode: assets/images/logos/理性梦想家.jpg
-      description: 理性梦想家的公众号
-    - title: GitHub博客
-      logo: 郑兰.png
-      url:  http://lan-zheng.github.io
-      description: 新浪博客    
+      description: 郑兰的公众号
+    - title: 博客地址
+      logo: 新浪.jpeg
+      url: https://weibo.com/u/2092415105  
+      description: 郑兰的新浪博客    
     - title: 微派网络
       logo: 微派.png
       url: https://wepie.com
@@ -41,6 +41,18 @@
       logo: chatgpt.png
       url: https://chat.openai.com/
       description: AIGC
+    - title: 知乎
+      logo: 知乎.png
+      url: https://www.zhihu.com/
+      description: 知乎社区
+    - title: 微信读书
+      url: https://weread.qq.com/
+      logo: 微信读书.jpg
+      description: 微信读书电脑版
+    - title: 少数派
+      url: https://sspai.com/
+      logo: 少数派.jpeg
+      description: 用的最多的效率类网站  
     - title: 语雀
       logo: 语雀.jpg
       url: https://www.yuque.com/
@@ -57,18 +69,22 @@
       logo: 搜狗微信.jpg
       url: https://weixin.sogou.com/
       description: 搜狗微信搜索，一搜即达
-    - title: 知乎
-      logo: 知乎.png
-      url: https://www.zhihu.com/
-      description: 知乎社区
     - title: ProcessOn
       logo: ProcessOn.png
-      url: https://www.processon.com/
+      url: https://www.processon.com/ 
       description: 免费在线作图、实时协作
-    - title: 微信读书
-      url: https://weread.qq.com/
-      logo: 微信读书.jpg
-      description: 微信读书电脑版
+    - title: 码力全开工作室
+      logo: 码力全开.png
+      url: https://maliquankai.com/
+      description: 一个独立开发者
+    - title: 腾讯帮小忙
+      logo: 帮小忙.png
+      url: https://tool.browser.qq.com/
+      description: 腾讯QQ浏览器在线工具箱
+    - title: 班叔
+      logo: 新浪.jpeg
+      url: https://weibo.com/cmzyk
+      description: 微派效率大v
 
 
 - taxonomy: HR网站
@@ -102,13 +118,7 @@
         - title: HRoot
           logo: hroot.png
           url: https://www.hroot.com
-          description: HR资讯网站
-        - title: 哈佛商业评论
-          logo: 哈佛商业评论.png
-          url: https://www.hbrchina.org/   
-          description: 学习管理与商业  
-
-          
+          description: HR资讯网站    
     - term: HR招聘网站
       links:
         - title: BOSS直聘
@@ -218,7 +228,7 @@
           url: https://hr.wkinfo.com.cn/focus/list
           description: 劳动法网站 
         - title: 学信网
-          logo: xuexin.png
+          logo: 学信网.png
           url: https://www.chsi.com.cn/
           description: 查询学历是否真实
     - term: HRSSC薪酬个税
@@ -331,8 +341,20 @@
 - taxonomy: 业务网站
   icon: fas fa-pencil-alt fa-lg
   list: 
-    - term: 业务-商业&数据
+    - term: 业务-商业&资讯
       links:
+        - title: 笔记侠
+          logo: 笔记侠.png
+          url: https://www.bijixia.net/#/home
+          description: 新商业干货
+        - title: 哈佛商业评论
+          logo: 哈佛商业评论.png
+          url: https://www.hbrchina.org/   
+          description: 学习管理与商业  
+        - title: 36kr
+          logo: 36kr.png
+          url: https://36kr.com/
+          description: 国内知名互联网资讯网站
         - title: 游戏新知
           logo: 游戏新知.png
           url: https://www.gameweibo.com/authorview/11197
@@ -341,6 +363,20 @@
           logo: 游戏葡萄.png
           url: https://youxiputao.com/
           description: 国内知名游戏媒体
+    - term: 业务-产品&运营
+      links:
+        - title: 人人都是产品经理
+          logo: 人人都是产品经理.jpeg
+          url: https://www.woshipm.com/
+          description: 国内最早产品经理学习网站
+        - title: 墨刀
+          logo: modao.png
+          url: https://modao.cc/
+          description: 产品设计协作平台   
+        - title: 三节课
+          logo: 三节课.png       
+          url: https://classroom.sanjieke.cn/home
+          description: 产品运营学习网站
         - title: 腾讯游戏学院
           logo: 腾讯游戏学院.png
           url: https://gameinstitute.qq.com/
@@ -348,19 +384,13 @@
         - title: 网易游戏学院
           logo: 网易游戏.png
           url: https://game.academy.163.com/
-          description: 网易官方平台
-    - term: 业务-产品&运营
-      links:
-        - title: 人人都是产品经理
-          logo: 人人都是产品经理.jpeg
-          url: https://www.woshipm.com/
-          description: 国内最早产品经理学习网站
-        - title: 三节课
-          logo: 三节课.png       
-          url: https://classroom.sanjieke.cn/home
-          description: 产品运营学习网站
+          description: 网易官方平台       
     - term: 业务-设计&美术
       links:
+        - title: 奇迹秀
+          logo: qijixiu.png
+          url: https://qijixiu.com/
+          description: 综合设计导航网站
         - title: 阿里巴巴矢量图标库
           logo: iconfont.png
           url: https://www.iconfont.cn/
@@ -376,13 +406,33 @@
         - title: 优设网
           logo: 优设.png
           url: https://hao.uisdc.com
-          description: 国内知名设计网站       
+          description: 国内知名设计网站  
+        - title: 稿定设计
+          logo: 稿定设计.png
+          url: https://www.gaoding.com/ 
+          description: 特别适合不会设计的小白 
+        - title: Sketch
+          logo: Sketch.png
+          url: https://www.sketch.com/
+          description: 适合UI设计
+        - title: figma
+          logo: figma.png
+          url: https://www.figma.com/
+          description: 适合设计协同
     - term: 业务-开发
       links:
         - title: GitHub
           logo: github.jpg
           url: https://github.com/
           description: GitHub 开源社区。
+        - title: Homebrew
+          logo: homebrew.svg
+          url: https://brew.sh/
+          description: 适用于Mac系统的软件管理工具
+         - title: hugo中文社区
+          logo: hugo.png
+          url: https://www.gohugo.org/
+          description: hugo的中文网站          
         - title: 开源中国
           logo: 开源中国.jpg
           url: https://www.oschina.net/
@@ -397,25 +447,42 @@
           description: 程序技术的学习手册以及日常办公用到的工具
     - term: 业务-市场
       links:
+        - title: 巨量引擎
+          url: https://www.oceanengine.com/
+          logo: 巨量引擎.png
+          description: 字节的营销王国  
+        - title: 七麦数据
+          url: https://www.qimai.cn/
+          logo: 七麦.jpeg
+          description: 国内知名数据平台
+        - title: 点点数据
+          url: https://app.diandian.com/
+          logo: 点点数据.png
+          description: 国内知名数据平台
+        - title: dataai
+          url: https://www.data.ai/cn/
+          logo: dataai.png
+          description: 国内知名数据平台
         - title: 镝数聚
           logo: 数据.png
           url: https://www.oschina.net/
           description: 数据平台
-        - title: dataAI CN 
-          url: https://www.data.ai/cn/
-          logo: dataai.png
-          description: 国内知名数据平台
     - term: 业务-商业化变现
       links:
-        - title: 微信读书
-          url: https://weread.qq.com/
+        - title: 字节穿山甲
           logo: 微信读书.jpg
-          description: 微信读书电脑版
-        - title: 书栈网
-          url: https://www.bookstack.cn/
-          logo: 书栈网.jpg
-          description: IT 互联网开源编程书籍免费阅读与下载
-        - title: 开源中国
+          url: https://www.csjplatform.com/?from=ad.oceanengine.com
+          description: 字节广告变现综合平台
+        - title: 火山引擎
+          ogo: 书栈网.jpg
+          url: https://www.volcengine.com/product/iAd
+          description: 字节火山引擎广告平台
+        - title: 腾讯广告
           logo: 开源中国.jpg
-          url: https://www.oschina.net/
-          description: 中文开源技术交流社区
+          url: https://e.qq.com/ads/
+          description: 腾讯广告平台
+        - title: Mobvista
+          logo: Mobvista.png
+          url:  https://www.mobvista.com/cn/
+          description: 全球增长和变现平台
+     
