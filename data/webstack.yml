@@ -211,9 +211,22 @@
           description: 武汉大学人力资源培训中心            
     - term: HRBP
       links:
+        - title: HR案例网
+          logo: hr案例网.png
+          url: https://www.hrsee.com/
+          description: 有bp内容的网站
         - title: HR实名俱乐部
           logo: hrbp俱乐部.png
-          description: 国内最早的HRBP布道公众号之一
+          description: 陈祖鑫公众号，国内最早的HRBP布道公众号之一
+        - title: HRBP资料
+          logo: hrbp实名俱乐部.png
+          description: 陈祖鑫公司公众号
+        - title: HRBP实战研究室
+          logo: hrbp lab.png
+          description: 公众号
+        - title: 我是HR报
+          logo: 我是hr报.png
+          description: 公众号
     - term: HRSSC劳动关系
       links:
         - title: 元典智库
