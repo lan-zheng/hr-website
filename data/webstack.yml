@@ -201,24 +201,24 @@
     - term: HRSSC劳动关系
       links:
         - title: 元典智库
-          logo: 百度网盘.jpg
+          logo: 元典.png
           url: https://www.chineselaw.com/
           description: 收录了许多有关劳动法的诉讼案例及法律解读
         - title: 中国法律资源库
-          logo: 阿里云盘
+          logo: 法意.png
           url: http://www.lawyee.org/
           description: 数据量庞大、内容丰富的中国法律资源检索系统
         - title: 中国裁判文书网
-          logo: 天翼云盘.jpg
-          url: https://wenshu.court.gov.cn
+          logo: 裁判文书网.png
+          url: https://wenshu.court.gov.cn/
           description: 全国案件线上可查，可以供HR查看已经结案的劳动法案例。
-        - title: 科威先行
-          logo: 坚果云.png
-          usrl: https://hr.wkinfo.com.cn/focus/list
+        - title: 威科先行
+          logo: 威科.png
+          url: https://hr.wkinfo.com.cn/focus/list
           description: 劳动法网站 
         - title: 学信网
-          logo: 坚果云.png
-          usrl: https://www.chsi.com.cn/
+          logo: 学信网.png
+          url: https://www.chsi.com.cn/
           description: 查询学历是否真实
     - term: HRSSC薪酬个税
       links:
