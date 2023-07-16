@@ -453,7 +453,7 @@
     - term: 业务-市场
       links:
         - title: 巨量引擎
-          ogo: 巨量.png
+          logo: 巨量.png
           url: https://www.oceanengine.com/
           description: 字节的营销王国  
         - title: 七麦数据
