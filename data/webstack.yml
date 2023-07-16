@@ -18,8 +18,13 @@
     - title: 豆瓣管理类书籍榜单
       logo: 豆瓣.jpeg
       url:  https://book.douban.com/
-      description: 豆瓣读书的排行榜   
+      description: 淘宝管理书籍榜单 
+    - title: 豆瓣管理类书籍榜单
+      logo: taobao.jpeg
+      url:  https://www.taobao.com/list/category/50000063.htm?spm=a21wu.10013406-cat.breadcrumb.3.5d914f36hIoVLo
+      description: 淘宝读书的排行榜 
 
+   
 
 - taxonomy: 常用工具平台
   icon: far fa-star
