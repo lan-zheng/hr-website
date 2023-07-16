@@ -170,6 +170,10 @@
           logo: mbti.jpeg
           url: https://www.mbti.com
           description: 知名性格测试
+        - title: MOKA
+          logo: moka.png
+          url: https://www.mokahr.com/
+          description: 招聘管理平台      
     - term: HRCOE
       links:
         - title: OKR社区
@@ -208,7 +212,11 @@
         - title: 武大人力资源培训中心
           logo: 武汉大学培训.png
           url:  http://www.first-priority.com.cn/
-          description: 武汉大学人力资源培训中心            
+          description: 武汉大学人力资源培训中心  
+        - title: 腾讯乐享
+          logo: 腾讯乐享.png
+          url: https://lexiangla.com/home
+          description: 腾讯企业建站社区 
     - term: HRBP
       links:
         - title: HR案例网
@@ -460,9 +468,16 @@
           url: https://www.v2ex.com/
           description: V2EX 创意工作者的社区。
         - title: 程序员盒子
-          url: https://www.coderutil.com/
           logo: 程序员盒子.png
+          url: https://www.coderutil.com/
           description: 程序技术的学习手册以及日常办公用到的工具
+        - title: Gridea
+          logo: 博客.png
+          url: https://open.gridea.dev/
+          description: 建站写博客的小白工具
+
+
+       
     - term: 业务-市场
       links:
         - title: 巨量引擎
