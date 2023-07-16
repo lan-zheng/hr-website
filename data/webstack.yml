@@ -479,11 +479,11 @@
           url: https://www.csjplatform.com/?from=ad.oceanengine.com
           description: 字节广告变现综合平台
         - title: 火山引擎
-          ogo: 火山引擎.jpg
+          logo: 火山引擎.png
           url: https://www.volcengine.com/product/iAd
           description: 字节火山引擎广告平台
         - title: 腾讯广告
-          logo: 腾讯广告.jpg
+          logo: 腾讯广告.png
           url: https://e.qq.com/ads/
           description: 腾讯广告平台
         - title: Mobvista
