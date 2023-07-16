@@ -29,7 +29,7 @@
       url:  http://lan-zheng.github.io
       qrcode: assets/images/logos/理性梦想家.jpg
       description: 郑兰的公众号
-    - title: 博客地址
+    - title: 理性梦想家
       logo: 新浪.jpeg
       url: https://weibo.com/u/2092415105  
       description: 郑兰的新浪博客    
@@ -228,7 +228,7 @@
           url: https://hr.wkinfo.com.cn/focus/list
           description: 劳动法网站 
         - title: 学信网
-          logo: 学信网.png
+          logo: 学信.jpeg
           url: https://www.chsi.com.cn/
           description: 查询学历是否真实
     - term: HRSSC薪酬个税
@@ -388,7 +388,7 @@
     - term: 业务-设计&美术
       links:
         - title: 奇迹秀
-          logo: qijixiu.png
+          logo: 奇迹秀.jpeg
           url: https://qijixiu.com/
           description: 综合设计导航网站
         - title: 阿里巴巴矢量图标库
@@ -448,20 +448,20 @@
     - term: 业务-市场
       links:
         - title: 巨量引擎
+          ogo: 巨量引擎.png
           url: https://www.oceanengine.com/
-          logo: 巨量引擎.png
           description: 字节的营销王国  
         - title: 七麦数据
-          url: https://www.qimai.cn/
           logo: 七麦.jpeg
+          url: https://www.qimai.cn/
           description: 国内知名数据平台
         - title: 点点数据
-          url: https://app.diandian.com/
           logo: 点点数据.png
+          url: https://app.diandian.com/
           description: 国内知名数据平台
         - title: dataai
-          url: https://www.data.ai/cn/
           logo: dataai.png
+          url: https://www.data.ai/cn/
           description: 国内知名数据平台
         - title: 镝数聚
           logo: 数据.png
@@ -470,15 +470,15 @@
     - term: 业务-商业化变现
       links:
         - title: 字节穿山甲
-          logo: 微信读书.jpg
+          logo: 穿山甲.png
           url: https://www.csjplatform.com/?from=ad.oceanengine.com
           description: 字节广告变现综合平台
         - title: 火山引擎
-          ogo: 书栈网.jpg
+          ogo: 火山引擎.jpg
           url: https://www.volcengine.com/product/iAd
           description: 字节火山引擎广告平台
         - title: 腾讯广告
-          logo: 开源中国.jpg
+          logo: 腾讯广告.jpg
           url: https://e.qq.com/ads/
           description: 腾讯广告平台
         - title: Mobvista
