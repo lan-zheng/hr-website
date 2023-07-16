@@ -475,6 +475,10 @@
           logo: 博客.png
           url: https://open.gridea.dev/
           description: 建站写博客的小白工具
+        - title: vs code
+          logo: vs code.jpeg
+          url: https://code.visualstudio.com/
+          description: Visual Studio Code常用写代码软件
 
 
        
