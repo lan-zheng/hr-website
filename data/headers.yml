@@ -6,10 +6,16 @@
   icon: fa fa-book
   link: ""
   list:
-    - name: 公众号
+    - name: 公众号-理性梦想家
       qrcode: assets/images/logos/理性梦想家.jpg
     - name: 微博
       url: "https://weibo.com/u/2092415105"      
     - name: 博客
       url: "http://lan-zheng.github.io"
+    - name: 综合招聘
+      url: https://www.zhipin.com/gongsi/1e160dfb74ce1ed903V62ti7.html?ka=search_rcmd_company_name_1e160dfb74ce1ed903V62ti7_custompage
+    - name: HR招聘
+      url: https://www.yuque.com/zhenglan/yfq8ol/lgnc10kgryg0rrl0?singleDoc# 《HR招聘职位HC》
+           
+
  
