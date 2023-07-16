@@ -92,7 +92,7 @@
           logo: 高绩效hr.png
           description: 知名公众号
         - title: 首席组织官
-          logo: 首席织织官.png
+          logo: 首席组织官.png
           url: https://www.coostrategy.com/
           description: 房晟陶创办的组织学习平台
         - title: 环球人力资源智库
@@ -257,30 +257,29 @@
     - term: HRSSC六险一金
       links:
         - title: 武汉人力资源和社会保障局
-          logo: Iconfinder.png
+          logo: 武汉人社局.png
           url: https://rsj.wuhan.gov.cn/cslm/
           description: 社保政策   
-      links:
         - title: 社保查询网
-          logo: Iconfinder.png
+          logo: 社保查询网.png
           url: https://www.chashebao.com
           description: 一站式社保服务网站
         - title: 武汉医保综合咨询平台
-          logo: Iconfinder.png
+          logo: 医保问答.png
           url: https://zx.whsybj.cn/
           description: 医保系统上的问题可以发帖提问，医保局员工会在底下回复解决         
         - title: 武汉公积金
-          logo: Iconfinder.png
+          logo: 武汉公积金.png
           url: https://gjj.wuhan.gov.cn/
           description: 武汉公积金政策
     - term: HRSSC涉外管理
       links:
         - title: 外国人来华工作管理服务平台
-          logo: Iconfinder.png
+          logo: 政府政务平台.png
           url: https://fuwu.most.gov.cn/html/fwsx/wgrlhzq/
           description: 办理签证业务
         - title: 中国领事服务网
-          logo: Iconfinder.png
+          logo: 中国领事.png
           url: http://cs.mfa.gov.cn/
           description: 签证的相关政策
     - term: 海外HR专题
@@ -294,7 +293,7 @@
           url: https://www.facebook.com
           description: 全球海外知名的人脉网站
         - title: HRTechChina
-          url: https://www.facebook.com
+          url: https://www.hrtechchina.com/
           logo: hrtechchina.jpeg
           description: 全球海外知名的人脉网站
         - title: indeed
@@ -302,11 +301,11 @@
           url: https://cn.indeed.com/
           description: 北美的用户比较多
         - title: jobstreet
-          logo: 微信读书.jpg     
-          url: https://siva.jobstreet.com
-          description: 北美的用户比较多                  
-        - title: up work
-          ogo: 微信读书.jpg    
+          logo: jobstreet.png  
+          url: https://www.jobstreet.com.sg/
+          description: 东南亚常用                 
+        - title: upwork
+          ogo: upwork.png  
           url: https://www.upwork.com/
           description: 全球线上工作招聘平台
         - title: BIPO
@@ -314,15 +313,15 @@
           url: https://www.biposervice.com/
           description: 全球top的人力资源服务网站
         - title: 新加坡人力资源网站MOM
-          logo:   
+          logo: 新加坡人力资源.png
           url: https://www.mom.gov.sg/
           description: 新加坡人力资源网站
         - title: Wuzzuf
-          logo:     
+          logo: wuzzuf.png   
           url: https://wuzzuf.net/jobs/egypt
           description: 新加坡招聘网站
         - title: mycareersfuture
-          logo:     
+          logo: 新加坡.png
           url:  https://www.mycareersfuture.gov.sg/
           description: 新加坡政府招聘网站
 
@@ -334,20 +333,20 @@
     - term: 业务-商业&数据
       links:
         - title: 游戏新知
-          url: https://weread.qq.com/
-          logo: 微信读书.jpg
+          logo: 游戏新知.png
+          url: https://www.gameweibo.com/authorview/11197
           description: 微信读书电脑版
         - title: 游戏葡萄
-          url: https://www.bookstack.cn/
-          logo: 书栈网.jpg
-          description: IT 互联网开源编程书籍免费阅读与下载
+          logo: 游戏葡萄.png
+          url: https://youxiputao.com/
+          description: 国内知名游戏媒体
         - title: 腾讯游戏学院
-          logo: 开源中国.jpg
-          url: https://www.oschina.net/
+          logo: 腾讯游戏学院.png
+          url: https://gameinstitute.qq.com/
           description: 腾讯官方平台
         - title: 网易游戏学院
-          logo: 开源中国.jpg
-          url: https://www.oschina.net/
+          logo: 网易游戏学院.png
+          url: https://game.academy.163.com/
           description: 网易官方平台
     - term: 业务-产品&运营
       links:
@@ -393,14 +392,14 @@
           description: V2EX 创意工作者的社区。
         - title: 程序员盒子
           url: https://www.coderutil.com/
-          logo: 书栈网.jpg
+          logo: 程序员盒子.png
           description: 程序技术的学习手册以及日常办公用到的工具
     - term: 业务-市场
       links:
         - title: 镝数聚
-          logo: 开源中国.jpg
+          logo: 数据.png
           url: https://www.oschina.net/
-          description: 中文开源技术交流社区
+          description: 数据平台
         - title: dataAI CN 
           url: https://www.data.ai/cn/
           logo: dataai.png
