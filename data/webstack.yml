@@ -78,10 +78,6 @@
       logo: ProcessOn.png
       url: https://www.processon.com/ 
       description: 免费在线作图、实时协作
-    - title: 码力全开工作室
-      logo: 码力全开.png
-      url: https://maliquankai.com/
-      description: 一个独立开发者
     - title: 腾讯帮小忙
       logo: 帮小忙.png
       url: https://tool.browser.qq.com/
@@ -90,6 +86,30 @@
       logo: 新浪.jpeg
       url: https://weibo.com/cmzyk
       description: 微博效率大v
+    - title: 得到
+      logo: 得到.png
+      url: https://www.dedao.cn/
+      description: 得到课程
+    - title: b站
+      logo: b站.jpeg
+      url: https://www.bilibili.com/cheese/mine/list?csource=common_hp_myclass_null&spm_id_from=333.1007.0.0
+      description:  b站课程
+    - title: coursera
+      logo: coursera.png
+      url: https://www.coursera.org/
+      description: 国内著名的coursera课程
+    - title: 网易公开课
+      logo: 网易公开课.jpeg
+      url: https://open.163.com/
+      description: 网易公开课课程
+    - title: 新加坡早报
+      logo: 新加坡早报.jpeg
+      url: https://www.zaobao.com.sg/news/singapore
+      description: 新加坡的新闻
+    - title: 21经济网
+      logo: 21.jpeg
+      url: http://www.21jingji.com/
+      description: 财经类知名平台，需要了解
 
 
 - taxonomy: HR网站
@@ -132,7 +152,7 @@
           description: Dau最高的招聘网站
         - title: 脉脉
           logo: 脉脉.png        
-          url: https://maimai.com
+          url: https://maimai.cn
           description: 新兴招聘和人脉网站
         - title: 猎聘网
           logo: 猎聘.png
@@ -479,9 +499,10 @@
           logo: vs code.jpeg
           url: https://code.visualstudio.com/
           description: Visual Studio Code常用写代码软件
-
-
-       
+        - title: 码力全开工作室
+          logo: 码力全开.png
+          url: https://maliquankai.com/
+          description: 一个独立开发者   
     - term: 业务-市场
       links:
         - title: 巨量引擎
