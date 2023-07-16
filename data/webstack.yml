@@ -305,7 +305,7 @@
           url: https://www.jobstreet.com.sg/
           description: 东南亚常用                 
         - title: upwork
-          ogo: upwork.png  
+          logo: upwork.png
           url: https://www.upwork.com/
           description: 全球线上工作招聘平台
         - title: BIPO
@@ -345,7 +345,7 @@
           url: https://gameinstitute.qq.com/
           description: 腾讯官方平台
         - title: 网易游戏学院
-          logo: 网易游戏学院.png
+          logo: 网易游戏.png
           url: https://game.academy.163.com/
           description: 网易官方平台
     - term: 业务-产品&运营
@@ -361,7 +361,7 @@
     - term: 业务-设计&美术
       links:
         - title: 阿里巴巴矢量图标库
-          logo: 阿里图标.png
+          logo: iconfont.png
           url: https://www.iconfont.cn/
           description: 各种图标、矢量插画，可下载
         - title: 花瓣网
