@@ -1,6 +1,6 @@
 baseURL               = "https://bioit.top/"
 languageCode          = "zh-CN"
-title                 = "HR 网址导航"
+title                 = "HR网址导航@理性梦想家"
 theme                 = "WebStack-Hugo"
 preserveTaxonomyNames = true
 disablePathToLower    = true
@@ -15,7 +15,7 @@ publishDir            = "public"					# 站点静态文件保存目录
     about         = "https://www.yuque.com/zhenglan/yfq8ol/oui94omdox7kn821" 	# 左侧导航栏的"关于HR导航"页面(./about)
     repository    = "https://www.yuque.com/zhenglan/yfq8ol/oui94omdox7kn821"  
     enablePreLoad = true					# 网站完全打开前预加载动画
-    textPreLoad   = "HR 网址导航"				# 预加载的动画文字, 只有当enablePreLoad=true时生效
+    textPreLoad   = "HR网址导航@理性梦想家"				# 预加载的动画文字, 只有当enablePreLoad=true时生效
     expandSidebar = true					# 默认展开左侧边导航栏
     logosPath     = "assets/images/logos"			# 网站每个导航地址logo存放地址
     defaultLogo   = "assets/images/logos/default.webp"		# logo图片资源不存在或者错误时, 默认显示的logo; 该参数如为空,将会一直加载对应的logo,直至成功
@@ -45,4 +45,4 @@ publishDir            = "public"					# 站点静态文件保存目录
     unsafe = true
 
 [params.footer]
-    copyright = '本站内容源自互联网，如有内容侵犯了你的权益，请联系删除相关内容，联系邮箱：admin@hrpaopao.com <br/>'
+    copyright = '本站内容源自互联网和作者原创，如其中有内容侵犯了你的权益，请联系删除相关内容，联系邮箱：admin@hrpaopao.com <br/>'
