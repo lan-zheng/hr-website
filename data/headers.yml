@@ -12,10 +12,15 @@
       url: "https://weibo.com/u/2092415105"      
     - name: 博客
       url: "http://lan-zheng.github.io"
-    - name: 综合招聘
-      url: https://www.zhipin.com/gongsi/1e160dfb74ce1ed903V62ti7.html?ka=search_rcmd_company_name_1e160dfb74ce1ed903V62ti7_custompage
-    - name: HR招聘
-      url: https://www.yuque.com/zhenglan/yfq8ol/lgnc10kgryg0rrl0?singleDoc# 《HR招聘职位HC》
-           
 
- 
+           
+- item: 加入我们
+  icon: fa fa-cog
+  link: ""
+  list:
+    - name: BOSS直聘
+      url: https://www.zhipin.com/gongsi/1e160dfb74ce1ed903V62ti7.html?ka=search_rcmd_company_name_1e160dfb74ce1ed903V62ti7_custompage
+    - name: 官网招聘
+      url: https://wepie-dingtalk.mokahr.com/social-recruitment/wepie/7359#/page/%E7%A4%BE%E4%BC%9A%E6%8B%9B%E8%81%98
+    - name: HR职位list
+      url: https://www.yuque.com/zhenglan/yfq8ol/lgnc10kgryg0rrl0?singleDoc# 《HR招聘职位HC》
