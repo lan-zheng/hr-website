@@ -50,6 +50,14 @@
       logo: 优设.png
       url:  https://hao.uisdc.com/ai/
       description: AIGC导航相关
+    - title: wikiHow
+      logo: wiki how.jpeg
+      url:  https://zh.wikihow.com/%E9%A6%96%E9%A1%B5
+      description: 教你做任何事
+    - title: 通往AGI之路
+      logo: agi.jpg
+      url: https://ywh1bkansf.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e
+      description: 学习AI内容
     - title: 腾讯帮小忙
       logo: 帮小忙.png
       url: https://tool.browser.qq.com/
@@ -119,9 +127,8 @@
       url: http://www.21jingji.com/
       description: 财经类知名平台，需要了解
 
-      
-     
 
+      
 
 - taxonomy: HR网站
   icon: fas fa-flask fa-lg
@@ -533,6 +540,10 @@
           logo: github.jpg
           url: https://github.com/
           description: GitHub 开源社区。
+        - title: GitHub排行榜
+          logo: github.jpg
+          url: https://www.githubs.cn/top
+          description: GitHub开源项目排行榜  
         - title: Homebrew
           logo: homebrew.svg
           url: https://brew.sh/
