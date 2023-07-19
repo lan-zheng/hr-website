@@ -25,19 +25,9 @@
       description: 淘宝读书排行榜 
 
    
-
 - taxonomy: 常用工具平台
   icon: far fa-star
   links: 
-    - title: 理性梦想家
-      logo: 郑兰.png
-      url:  http://lan-zheng.github.io
-      qrcode: assets/images/logos/理性梦想家.jpg
-      description: 郑兰的公众号
-    - title: 理性梦想家
-      logo: 新浪.jpeg
-      url: https://weibo.com/u/2092415105  
-      description: 郑兰的新浪博客 
     - title: 少数派
       logo: 少数派.jpeg
       url: https://sspai.com/
@@ -127,7 +117,6 @@
       url: http://www.21jingji.com/
       description: 财经类知名平台，需要了解
 
-
       
 
 - taxonomy: HR网站
@@ -166,10 +155,6 @@
           logo: mba.jpeg
           url: https://www.mbalib.com/      
           description: 管理者成长平台  
-        - title: 私人AI交流机器人
-          logo: 机器人.png
-          url: https://heypi.com/talk?scr    
-          description: 个人英语AI机器人 
         - title: TED
           logo: ted.png
           url:  https://www.ted.com/
