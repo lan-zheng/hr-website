@@ -12,8 +12,8 @@ publishDir            = "public"					# 站点静态文件保存目录
     author        = "lan zheng"
     description   = "Hello HR | HR导航网站"
     upload        = "https://www.yuque.com/zhenglan/yfq8ol/oui94omdox7kn821"  # 左侧导航栏的"网址推荐"
-    about         = "https://www.yuque.com/zhenglan/yfq8ol/oui94omdox7kn821" 	# 左侧导航栏的"关于HR导航"页面(./about)
-    repository    = "https://www.yuque.com/zhenglan/yfq8ol/oui94omdox7kn821"  
+    about         = "https://mp.weixin.qq.com/s?__biz=MzIwODU4ODg4Mw==&mid=2247488802&idx=1&sn=be21b5f7c5b5dab3907be8edc21005eb&chksm=97018c1ea0760508a4fdc86c844b75450c08329e07b96bf73e78dd840c80f8b03f202c7a9f3c#rd" 	# 左侧导航栏的"关于HR导航"页面(./about)
+    repository    = "https://mp.weixin.qq.com/s?__biz=MzIwODU4ODg4Mw==&mid=2247488802&idx=1&sn=be21b5f7c5b5dab3907be8edc21005eb&chksm=97018c1ea0760508a4fdc86c844b75450c08329e07b96bf73e78dd840c80f8b03f202c7a9f3c#rd1"  
     enablePreLoad = true					# 网站完全打开前预加载动画
     textPreLoad   = "HR网址导航@理性梦想家"				# 预加载的动画文字, 只有当enablePreLoad=true时生效
     expandSidebar = true					# 默认展开左侧边导航栏
