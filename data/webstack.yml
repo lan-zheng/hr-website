@@ -532,6 +532,10 @@
           logo: hello github.png
           url: https://hellogithub.com/
           description: GitHub 开源项目网站。
+        - title: GitHubDaily  
+          logo: github.png
+          url:  https://github.com/GitHubDaily/GitHubDaily
+          description: GitHub 开源项目网站。  
         - title: Homebrew
           logo: homebrew.svg
           url: https://brew.sh/
