@@ -528,6 +528,10 @@
           logo: github.jpg
           url: https://www.githubs.cn/top
           description: GitHub开源项目排行榜  
+        - title: Hello GitHub
+          logo: hello github.png
+          url: https://hellogithub.com/
+          description: GitHub 开源项目网站。
         - title: Homebrew
           logo: homebrew.svg
           url: https://brew.sh/
