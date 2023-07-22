@@ -244,10 +244,14 @@
         - title: 培训江湖
           logo: 培训江湖.png
           description: 公众号
-        - title: DDI
-          logo: ddi.png
-          url: https://www.ddiworld.com/
-          description: 培训平台
+        - title: AACTP
+          logo: aactp.png
+          url: http://www.aactp.net/
+          description: 美国培训认证协会
+        - title: 北京大学经济学院
+          logo: 北京大学经济学院.png
+          url: https://econ.pku.edu.cn/gdjy/edpzxjj/index.htm
+          description: 北京大学经济学院
         - title: 竞越
           logo: 竞越.png
           url:  http://www.first-priority.com.cn/
