@@ -345,7 +345,7 @@
           logo: 学信.jpeg
           url: https://www.chsi.com.cn/
           description: 查询学历是否真实
-    - term: HRSSC薪酬个税
+    - term: HRSSC薪酬个税&福利
       links:
         - title: salaryfly
           logo: 钱.png
@@ -379,6 +379,12 @@
           logo: 国家税务总局.png
           url: http://www.chinatax.gov.cn/
           description: 个税相关政策
+        - title: 保险极客
+          logo: 保险极客.png
+          url: https://www.insgeek.com/
+          description: 国内平台型保险公司
+
+
     - term: HRSSC六险一金
       links:
         - title: 武汉人力资源和社会保障局
