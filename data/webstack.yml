@@ -27,111 +27,118 @@
    
 - taxonomy: 常用工具平台
   icon: far fa-star
-  links: 
-    - title: 少数派
-      logo: 少数派.jpeg
-      url: https://sspai.com/
-      description: 用的最多的效率类网站 
-    - title: chrome插件扩展下载网
-      logo: 插件下载.png
-      url:  https://extfans.com/
-      description: chrome插件扩展下载
-    - title: ChatGPT
-      logo: chatgpt.png
-      url: https://chat.openai.com/
-      description: AIGC
-    - title: 优设AI导航
-      logo: 优设.png
-      url:  https://hao.uisdc.com/ai/
-      description: AIGC导航相关
-    - title: WikiHow
-      logo: wiki how.jpeg
-      url:  https://zh.wikihow.com/%E9%A6%96%E9%A1%B5
-      description: 教你做任何事
-    - title: 通往AGI之路
-      logo: agi.jpg
-      url: https://ywh1bkansf.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e
-      description: 学习AI内容
-    - title: 腾讯帮小忙
-      logo: 帮小忙.png
-      url: https://tool.browser.qq.com/
-      description: 腾讯QQ浏览器在线工具箱
-    - title: 班叔
-      logo: 新浪.jpeg
-      url: https://weibo.com/cmzyk
-      description: 微博效率大v      
-    - title: 知乎
-      logo: 知乎.png
-      url: https://www.zhihu.com/
-      description: 知乎社区
-    - title: 微信读书
-      url: https://weread.qq.com/
-      logo: 微信读书.jpg
-      description: 微信读书电脑版
-    - title: 华科图书馆
-      logo: 华科.png
-      url: https://libresource.hust.edu.cn/dbs-navigation
-      description: 华中科技大学图书馆
-    - title: 语雀
-      logo: 语雀.jpg
-      url: https://www.yuque.com/
-      description: 专业的云端知识库
-    - title: 邮箱
-      logo: qq邮箱.png
-      url: http://mail.qq.com/
-      description: 腾讯 QQ 邮箱
-    - title: 公众号平台
-      logo: 微信公众号.png
-      url: https://mp.weixin.qq.com/
-      description: 再小的个体也有自己的品牌
-    - title: 搜狗微信
-      logo: 搜狗微信.jpg
-      url: https://weixin.sogou.com/
-      description: 搜狗微信搜索，一搜即达
-    - title: ProcessOn
-      logo: ProcessOn.png
-      url: https://www.processon.com/ 
-      description: 免费在线作图、实时协作
-    - title: 得到
-      logo: 得到.png
-      url: https://www.dedao.cn/
-      description: 得到课程
-    - title: b站
-      logo: b站.jpeg
-      url: https://www.bilibili.com/cheese/mine/list?csource=common_hp_myclass_null&spm_id_from=333.1007.0.0
-      description:  b站课程
-    - title: 湛庐文化
-      logo: zhanlu.png
-      url: https://www.cheerspublishing.com/
-      description: 高质量知识与学习平台
-    - title: coursera
-      logo: coursera.png
-      url: https://www.coursera.org/
-      description: 国外著名的coursera课程
-    - title: 网易公开课
-      logo: 网易公开课.jpeg
-      url: https://open.163.com/
-      description: 网易公开课课程
-    - title: 今日热榜
-      logo: 今日热榜.jpeg
-      url: https://tophub.today/c/news
-      description: 所有热点新闻
-    - title: 新加坡早报
-      logo: 新加坡早报.jpeg
-      url: https://www.zaobao.com.sg/news/singapore
-      description: 新加坡的新闻
-    - title: 21经济网
-      logo: 21.jpeg
-      url: http://www.21jingji.com/
-      description: 财经类知名平台，需要了解
-    - title: 晚点latepost
-      logo: 晚点.png
-      url:  https://www.latepost.com/site/index
-      description: 国内知名深度商业报告平台
-    - title: TED
-      logo: ted.png
-      url:  https://www.ted.com/
-      description: 英语和全球视野 
+  list:
+    - term: 效率工具
+      links:
+        - title: 少数派
+          logo: 少数派.jpeg
+          url: https://sspai.com/
+          description: 用的最多的效率类网站 
+        - title: chrome插件扩展下载网
+          logo: 插件下载.png
+          url:  https://extfans.com/
+          description: chrome插件扩展下载
+        - title: ChatGPT
+          logo: chatgpt.png
+          url: https://chat.openai.com/
+          description: AIGC
+        - title: 优设AI导航
+          logo: 优设.png
+          url:  https://hao.uisdc.com/ai/
+          description: AIGC导航相关
+        - title: WikiHow
+          logo: wiki how.jpeg
+          url:  https://zh.wikihow.com/%E9%A6%96%E9%A1%B5
+          description: 教你做任何事
+        - title: 通往AGI之路
+          logo: agi.jpg
+          url: https://ywh1bkansf.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e
+          description: 学习AI内容
+        - title: 腾讯帮小忙
+          logo: 帮小忙.png
+          url: https://tool.browser.qq.com/
+          description: 腾讯QQ浏览器在线工具箱
+        - title: 班叔
+          logo: 新浪.jpeg
+          url: https://weibo.com/cmzyk
+          description: 微博效率大v   
+         - title: 语雀
+           logo: 语雀.jpg
+           url: https://www.yuque.com/
+           description: 专业的云端知识库
+        - title: 邮箱
+          logo: qq邮箱.png
+          url: http://mail.qq.com/
+          description: 腾讯 QQ 邮箱
+        - title: 公众号平台
+          logo: 微信公众号.png
+          url: https://mp.weixin.qq.com/
+          description: 再小的个体也有自己的品牌
+        - title: 搜狗微信
+          logo: 搜狗微信.jpg
+          url: https://weixin.sogou.com/
+          description: 搜狗微信搜索，一搜即达
+        - title: ProcessOn
+          logo: ProcessOn.png
+          url: https://www.processon.com/ 
+          description: 免费在线作图、实时协作
+    - term: 学习平台
+      links:  
+        - title: 知乎
+          logo: 知乎.png
+          url: https://www.zhihu.com/
+          description: 知乎社区
+        - title: 微信读书
+          url: https://weread.qq.com/
+          logo: 微信读书.jpg
+          description: 微信读书电脑版
+        - title: 华科图书馆
+          logo: 华科.png
+          url: https://libresource.hust.edu.cn/dbs-navigation
+          description: 华中科技大学图书馆
+        - title: 得到
+          logo: 得到.png
+          url: https://www.dedao.cn/
+          description: 得到课程
+        - title: b站
+          logo: b站.jpeg
+          url: https://www.bilibili.com/cheese/mine/list?csource=common_hp_myclass_null&spm_id_from=333.1007.0.0
+          description:  b站课程
+        - title: 湛庐文化
+          logo: zhanlu.png
+          url: https://www.cheerspublishing.com/
+          description: 高质量知识与学习平台
+        - title: coursera
+          logo: coursera.png
+          url: https://www.coursera.org/
+          description: 国外著名的coursera课程
+        - title: 网易公开课
+          logo: 网易公开课.jpeg
+          url: https://open.163.com/
+          description: 网易公开课课程
+        - title: TED
+          logo: ted.png
+          url:  https://www.ted.com/
+          description: 英语和全球视野 
+    - term: 新闻平台
+      links:
+        - title: 今日热榜
+          logo: 今日热榜.jpeg
+          url: https://tophub.today/c/news
+          description: 所有热点新闻
+        - title: 新加坡早报
+          logo: 新加坡早报.jpeg
+          url: https://www.zaobao.com.sg/news/singapore
+          description: 新加坡的新闻
+        - title: 21经济网
+          logo: 21.jpeg
+          url: http://www.21jingji.com/
+          description: 财经类知名平台，需要了解
+        - title: 晚点latepost
+          logo: 晚点.png
+          url:  https://www.latepost.com/site/index
+          description: 国内知名深度商业报告平台
+
 
                
 - taxonomy: HR网站
@@ -173,10 +180,7 @@
         - title: MBA智库
           logo: mba.jpeg
           url: https://www.mbalib.com/      
-          description: 管理者成长平台  
-   
-
-   
+          description: 管理者成长平台    
     - term: HR招聘网站
       links:
         - title: BOSS直聘
