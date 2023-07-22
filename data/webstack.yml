@@ -499,8 +499,6 @@
           logo: 和君商学.png
           url:  https://s.hejunedu.com/student/enroll  
           description: 商学院    
-
-
         - title: 扬帆出海
           logo: 扬帆出海.jpeg
           url: https://www.yfchuhai.com/
@@ -509,10 +507,6 @@
           logo: 白鲸出海.jpeg
           url: https://www.baijing.cn/
           description: 国内知名出海资讯平台
-        - title: 游鲨游戏圈
-          logo: 游鲨游戏圈.jpeg
-          url: https-//www.gameshark.com.cn/
-          description: 不错的游戏知识与培训入门平台
         - title: 游戏葡萄
           logo: 游戏葡萄.png
           url: https://youxiputao.com/
@@ -571,7 +565,11 @@
         - title: 网易游戏学院
           logo: 网易游戏.png
           url: https://game.academy.163.com/
-          description: 网易官方平台       
+          description: 网易官方平台 
+        - title: 游鲨游戏圈
+          logo: 游鲨游戏圈.jpeg
+          url: https://www.gameshark.com.cn/
+          description: 不错的游戏知识与培训入门平台      
     - term: 业务-设计&美术
       links:
         - title: 奇迹秀
