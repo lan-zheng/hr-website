@@ -317,6 +317,14 @@
           description: 公众号
     - term: HRSSC劳动关系
       links:
+        - title: 北大法宝
+          logo: 北大法宝.jpeg
+          url: https://home.pkulaw.com/
+          description: 法律平台
+        - title: 无讼案例
+          logo: 无讼.jpeg
+          url:  https://www.itslaw.com/home
+          description: 法律平台
         - title: 元典智库
           logo: 元典.png
           url: https://www.chineselaw.com/
