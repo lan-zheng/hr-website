@@ -100,6 +100,10 @@
       logo: b站.jpeg
       url: https://www.bilibili.com/cheese/mine/list?csource=common_hp_myclass_null&spm_id_from=333.1007.0.0
       description:  b站课程
+    - title: 湛庐文化
+      logo: zhanlu.png
+      url: https://www.cheerspublishing.com/
+      description: 高质量知识与学习平台
     - title: coursera
       logo: coursera.png
       url: https://www.coursera.org/
@@ -473,7 +477,7 @@
       links:
         - title: 投资界
           logo: 投资界.jpeg
-          url: https://www.pedaily.cn/
+          url: https://www.pedaily.cn/media/m332
           description: 投资资讯平台
         - title: 国家新闻出版署
           logo: 国家新闻出版署名.png
