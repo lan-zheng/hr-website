@@ -254,10 +254,14 @@
           logo: 北京大学经济学院.jpeg
           url: https://econ.pku.edu.cn/gdjy/edpzxjj/index.htm
           description: 北京大学经济学院
+        - title: DDI
+          logo: ddi.png
+          url: https://www.ddiworld.com/
+          description: 知名培训平台     
         - title: 竞越
           logo: 竞越.png
           url:  http://www.first-priority.com.cn/
-          description: 培训平台     
+          description: 知名培训平台     
         - title: 武大人力资源培训中心
           logo: 武汉大学培训.png
           description: 武汉大学人力资源培训中心  
