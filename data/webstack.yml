@@ -28,7 +28,7 @@
 - taxonomy: 常用综合网站
   icon: far fa-star
   list:
-    - term: 效率工具
+    - term: 常用效率工具
       links:
         - title: 少数派
           logo: 少数派.jpeg
@@ -78,7 +78,7 @@
           logo: ProcessOn.png
           url: https://www.processon.com/ 
           description: 免费在线作图、实时协作
-    - term: 学习平台
+    - term: 常用学习平台
       links:  
         - title: 知乎
           logo: 知乎.png
@@ -116,7 +116,7 @@
           logo: ted.png
           url:  https://www.ted.com/
           description: 英语和全球视野 
-    - term: 信息平台
+    - term: 常用信息平台
       links:
         - title: 今日热榜
           logo: 今日热榜.jpeg
