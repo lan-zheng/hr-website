@@ -122,26 +122,26 @@
           description: 高质量知识与学习平台
     - term: 常用信息平台
       links:
-        - title: 今日热榜
-          logo: 今日热榜.jpeg
-          url: https://tophub.today/c/news
-          description: 所有热点新闻
-        - title: 新加坡早报
-          logo: 新加坡早报.jpeg
-          url: https://www.zaobao.com.sg/news/singapore
-          description: 新加坡的新闻
-        - title: 21经济网
-          logo: 21.jpeg
-          url: http://www.21jingji.com/
-          description: 财经类知名平台，需要了解
-        - title: 晚点latepost
-          logo: 晚点.png
-          url:  https://www.latepost.com/site/index
-          description: 国内知名深度商业报告平台
         - title: 天眼查
           logo: 天眼查.png
           url:  https://www.tianyancha.com/
           description: 工商等信息查询
+        - title: 晚点latepost
+          logo: 晚点.png
+          url:  https://www.latepost.com/site/index
+          description: 国内知名深度商业报告平台
+        - title: 今日热榜
+          logo: 今日热榜.jpeg
+          url: https://tophub.today/c/news
+          description: 所有热点新闻
+        - title: 21经济网
+          logo: 21.jpeg
+          url: http://www.21jingji.com/
+          description: 财经类知名平台，需要了解
+        - title: 新加坡早报
+          logo: 新加坡早报.jpeg
+          url: https://www.zaobao.com.sg/news/singapore
+          description: 新加坡的新闻
         
 
                
