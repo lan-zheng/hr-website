@@ -479,6 +479,43 @@
           logo: 游戏葡萄.png
           url: https://youxiputao.com/
           description: 国内知名游戏媒体
+        - title: 扬帆出海
+          logo: 扬帆出海.jpeg
+          url: https://www.yfchuhai.com/
+          description: 国内知名出海资讯平台
+        - title: 白鲸出海
+          logo: 白鲸出海.jpeg
+          url: https://www.baijing.cn/
+          description: 国内知名出海资讯平台
+        - title: 游资网
+          logo: 游资网.png
+          url: https://www.gameres.com/
+          description: 国内知名游戏媒体
+        - title: 手游那点事
+          logo: 手游那点事.png
+          url: http://www.nadianshi.com/
+          description: 国内知名游戏媒体
+        - title: 游戏陀螺
+          logo: 游戏陀螺.jpeg
+          url: https://www.youxituoluo.com/
+          description: 国内知名游戏媒体
+        - title: 独立出海联合体
+          logo: 独立出海联合体.jpeg
+          url: https://www.zhihu.com/people/du-li-chu-hai-lian-he-ti/posts
+          description: 国内知名游戏媒体
+        - title: 游戏干线
+          logo: 游戏干线.jpeg
+          url: http://www.gamerbbs.cn/
+          description: 国内知名游戏媒体
+        - title: 游戏茶馆
+          logo: 游戏茶馆.png
+          url: http://youxichaguan.com/
+          description: 国内知名游戏媒体
+        - title: 游戏日报
+          logo: 游戏日报.png
+          url: https://news.yxrb.net/
+          description: 国内知名游戏媒体
+
     - term: 业务-产品&运营
       links:
         - title: 人人都是产品经理
@@ -599,6 +636,10 @@
           logo: diandian.png
           url: https://app.diandian.com/
           description: 国内知名数据平台
+        - title: 数数科技
+          logo: 数数.png
+          url: https://www.thinkingdata.cn/
+          description: 游戏大数据分析服务端         
         - title: dataai
           logo: dataai.png
           url: https://www.data.ai/cn/
