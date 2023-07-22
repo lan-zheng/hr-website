@@ -116,6 +116,10 @@
           logo: ted.png
           url:  https://www.ted.com/
           description: 英语和全球视野 
+        - title: 外交部-全球国家
+          logo: 外交部.png
+          url:  https://www.mfa.gov.cn/web/gjhdq_676201/gj_676203/yz_676205/
+          description: 了解全球各地区与国家
     - term: 常用信息平台
       links:
         - title: 今日热榜
