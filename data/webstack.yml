@@ -442,6 +442,15 @@
   list: 
     - term: 业务-商业&资讯
       links:
+        - title: 国家新闻出版署
+          logo: 国家新闻出版署名.png
+          url: https://www.nppa.gov.cn/bsfw/jggs/yxspjg/
+          description: 版号出版情况 
+        - title: 游戏工委
+          logo: 游戏工委.jpeg
+          url: http://www.cgigc.com.cn/isbn/ 
+          description: 游戏版号查询 
+      http://www.cgigc.com.cn/isbn/
         - title: 笔记侠
           logo: 笔记侠.png
           url: https://www.bijixia.net/#/home
