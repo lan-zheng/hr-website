@@ -63,9 +63,9 @@
           url: https://weibo.com/cmzyk
           description: 微博效率大v   
         - title: 语雀
-           logo: 语雀.jpg
-           url: https://www.yuque.com/
-           description: 专业的云端知识库
+          logo: 语雀.jpg
+          url: https://www.yuque.com/
+          description: 专业的云端知识库
         - title: 邮箱
           logo: qq邮箱.png
           url: http://mail.qq.com/
