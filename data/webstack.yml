@@ -116,6 +116,12 @@
       logo: 21.jpeg
       url: http://www.21jingji.com/
       description: 财经类知名平台，需要了解
+    - title: 晚点latepost
+      logo: 晚点.png
+      url:  https://www.latepost.com/site/index
+      description: 国内知名深度商业报告平台
+
+               
 
       
 
@@ -163,6 +169,12 @@
           logo: ted.png
           url:  https://www.ted.com/
           description: 英语和全球视野 
+        - title: 晚点 latepost
+          logo: ted.png
+          url:  https://www.ted.com/
+          description: 英语和全球视野 
+
+
          
        
 
