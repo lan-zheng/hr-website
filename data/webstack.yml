@@ -471,6 +471,10 @@
   list: 
     - term: 业务-商业&资讯
       links:
+        - title: 投资界
+          logo: 投资界.jpeg
+          url: https://www.pedaily.cn/
+          description: 投资资讯平台
         - title: 国家新闻出版署
           logo: 国家新闻出版署名.png
           url: https://www.nppa.gov.cn/bsfw/jggs/yxspjg/
