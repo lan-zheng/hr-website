@@ -120,6 +120,11 @@
           logo: zhanlu.png
           url: https://www.cheerspublishing.com/
           description: 高质量知识与学习平台
+        - title: 帆书
+          logo: 帆书.png
+          url: https://qidu.dushu365.com/admin/home
+          description: 原樊登读书，企业版后台
+
     - term: 常用信息平台
       links:
         - title: 天眼查
@@ -262,6 +267,10 @@
         - title: 培训江湖
           logo: 培训江湖.png
           description: 公众号
+        - title: 宁向东的管理学课
+          logo: 得到.png
+          url: https://www.dedao.cn/course/detail?id=x9emjk1LQqzoK2MSoX2lbY6Pv0BDWZ
+          description: 学习管理与领导力，大师宁向东出品
         - title: AACTP
           logo: aactp.png
           url: http://www.aactp.net/
