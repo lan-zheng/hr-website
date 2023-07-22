@@ -31,7 +31,12 @@
     - title: 少数派
       logo: 少数派.jpeg
       url: https://sspai.com/
-      description: 用的最多的效率类网站     
+      description: 用的最多的效率类网站 
+  links: 
+    - title: chrome插件扩展下载网
+      logo: 插件下载.png
+      url:  https://extfans.com/
+      description: chrome插件扩展下载
     - title: ChatGPT
       logo: chatgpt.png
       url: https://chat.openai.com/
@@ -40,7 +45,7 @@
       logo: 优设.png
       url:  https://hao.uisdc.com/ai/
       description: AIGC导航相关
-    - title: wikiHow
+    - title: WikiHow
       logo: wiki how.jpeg
       url:  https://zh.wikihow.com/%E9%A6%96%E9%A1%B5
       description: 教你做任何事
@@ -317,6 +322,10 @@
           description: 公众号
     - term: HRSSC劳动关系
       links:
+        - title: 中国法律服务网
+          logo: 中国法律服务网.jpeg
+          url: http://www.12348.gov.cn/#/homepage
+          description: 智能法律咨询
         - title: 北大法宝
           logo: 北大法宝.jpeg
           url: https://home.pkulaw.com/
