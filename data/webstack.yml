@@ -498,14 +498,8 @@
           logo: 和君商学.png
           url:  https://s.hejunedu.com/student/enroll  
           description: 商学院    
-        - title: 游戏新知
-          logo: 游戏新知.png
-          url: https://www.gameweibo.com/authorview/11197
-          description: 国内知名游戏媒体
-        - title: 游戏葡萄
-          logo: 游戏葡萄.png
-          url: https://youxiputao.com/
-          description: 国内知名游戏媒体
+
+
         - title: 扬帆出海
           logo: 扬帆出海.jpeg
           url: https://www.yfchuhai.com/
@@ -514,6 +508,18 @@
           logo: 白鲸出海.jpeg
           url: https://www.baijing.cn/
           description: 国内知名出海资讯平台
+        - title: 游鲨游戏圈
+          logo: 游鲨游戏圈.jpeg
+          url: https-//www.gameshark.com.cn/
+          description: 不错的游戏知识与培训入门平台
+        - title: 游戏葡萄
+          logo: 游戏葡萄.png
+          url: https://youxiputao.com/
+          description: 国内知名游戏媒体
+        - title: 游戏新知
+          logo: 游戏新知.png
+          url: https://www.gameweibo.com/authorview/11197
+          description: 国内知名游戏媒体
         - title: 游资网
           logo: 游资网.png
           url: https://www.gameres.com/
