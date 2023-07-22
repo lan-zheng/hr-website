@@ -120,11 +120,12 @@
       logo: 晚点.png
       url:  https://www.latepost.com/site/index
       description: 国内知名深度商业报告平台
+    - title: TED
+      logo: ted.png
+      url:  https://www.ted.com/
+      description: 英语和全球视野 
 
                
-
-      
-
 - taxonomy: HR网站
   icon: fas fa-flask fa-lg
   list:
@@ -165,12 +166,7 @@
           logo: mba.jpeg
           url: https://www.mbalib.com/      
           description: 管理者成长平台  
-        - title: TED
-          logo: ted.png
-          url:  https://www.ted.com/
-          description: 英语和全球视野 
-
-         
+   
 
    
     - term: HR招聘网站
