@@ -116,6 +116,10 @@
           logo: b站.jpeg
           url: https://www.bilibili.com/cheese/mine/list?csource=common_hp_myclass_null&spm_id_from=333.1007.0.0
           description:  b站课程
+        - title: 背单词神器
+          logo: english.png
+          url:  https://qwerty.kaiyi.cool/
+          description:  沉浸式敲单词  
         - title: 湛庐文化
           logo: zhanlu.png
           url: https://www.cheerspublishing.com/
