@@ -261,11 +261,20 @@
         - title: DDI
           logo: ddi.png
           url: https://www.ddiworld.com/
-          description: 知名培训平台     
+          description: 知名培训平台 
+        - title: DDI英跃领导力在线
+          logo: ddi.png
+          url: https://www.ddiworld.com/
+          description: DDI英跃领导力在线网站
+          https://m.transtalent.cn/pc/#/home    
         - title: 竞越
           logo: 竞越.png
           url:  http://www.first-priority.com.cn/
           description: 知名培训平台     
+        - title: 凯洛格
+          logo: 凯洛格.png
+          url: http://www.keylogic.com.cn/
+          description: 咨询公司培训平台    
         - title: 武大人力资源培训中心
           logo: 武汉大学培训.png
           description: 武汉大学人力资源培训中心  
