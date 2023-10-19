@@ -45,5 +45,5 @@ publishDir            = "public"					# 站点静态文件保存目录
     unsafe = true
 
 [params.footer]
-    copyright = '本站内容源自互联网和作者原创，如其中有内容侵犯了你的权益，请联系删除相关内容，联系邮箱：admin@hrpaopao.com <br/>'
-    <br/>[鄂ICP备2023015719号-1](http://beian.miit.gov.cn/)<br/>
+    copyright = '本站内容源自互联网和作者原创，如其中有内容侵犯了你的权益，请联系删除相关内容，联系邮箱：admin@hrpaopao.com。[鄂ICP备2023015719号-1](http://beian.miit.gov.cn/) <br/>'
+   
