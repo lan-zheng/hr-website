@@ -1,6 +1,6 @@
 baseURL               = "https://bioit.top/"
 languageCode          = "zh-CN"
-title                 = "HR网址导航@理性梦想家"
+title                 = "HR网址导航@郑兰理性梦想家"
 theme                 = "WebStack-Hugo"
 preserveTaxonomyNames = true
 disablePathToLower    = true
@@ -45,5 +45,5 @@ publishDir            = "public"					# 站点静态文件保存目录
     unsafe = true
 
 [params.footer]
-    copyright = '本站内容源自互联网和作者原创，如其中有内容侵犯了你的权益，请联系删除相关内容，联系邮箱：admin@hrpaopao.com。[鄂ICP备2023015719号-1](http://beian.miit.gov.cn/) <br/>'
+    copyright = '网站由 lan zheng 设计，如需联系，请加微信：zheng67lan，或者联系 monicazheng67@gmail.com 邮箱进行反馈建议。[鄂ICP备2023015719号-1](http://beian.miit.gov.cn/) <br/>'
    
