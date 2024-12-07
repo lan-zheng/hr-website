@@ -9,7 +9,7 @@
   list:
     - name: 百度百科
       url: "https://baike.baidu.com/item/%E9%83%91%E5%85%B0/63277410?fromModule=lemma_sense-layer#viewPageContent"
-    - name: 公众号理性梦想家
+    - name: 公众号
       qrcode: assets/images/logos/理性梦想家.jpg
     - name: 微博
       url: "https://weibo.com/u/2092415105"      
