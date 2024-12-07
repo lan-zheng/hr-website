@@ -17,14 +17,14 @@
       url: "http://lan-zheng.github.io"
 
            
-- item: 加入我们
+- item: 郑兰开发产品
   icon: fa fa-cog
   link: ""
   mobile: 1
   list:
-    - name: BOSS直聘
-      url: https://www.zhipin.com/gongsi/1e160dfb74ce1ed903V62ti7.html?ka=search_rcmd_company_name_1e160dfb74ce1ed903V62ti7_custompage
-    - name: 官网招聘
-      url: https://wepie-dingtalk.mokahr.com/social-recruitment/wepie/7359#/page/%E7%A4%BE%E4%BC%9A%E6%8B%9B%E8%81%98
-    - name: HR职位list
-      url: https://www.yuque.com/zhenglan/yfq8ol/lgnc10kgryg0rrl0?singleDoc# 《HR招聘职位HC》
+    - name: 劳动法
+      url: https://labor.hrpaopao.com/  
+    - name: 学习小卡片
+      url:  https://card.hrpaopao.com/
+    - name: 人才盘点
+      url: https://talent.hrpaopao.com/
